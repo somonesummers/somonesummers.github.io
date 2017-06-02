@@ -3,9 +3,9 @@ title: Editorial
 subtitle: by HTML5 UP
 email: ekgibbons@gmail.com
 description: MY PERSONAL WEBPAGE
-baseurl: "/ekgibbons" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "ekgibbons.github.io" # the base hostname & protocol for your site
+author: Eric Gibbons
 street_address: 
 city: Palo Alto
 state: CA
