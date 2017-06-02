@@ -54,11 +54,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="{{ 'cv.html' | absolute_url }}" class="image"><img src="assets/images/campuses.png" alt="" /></a>
 			<h3>CV</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>This is a copy of my CV as of December 2016.  </p>
 			<ul class="actions">
-				<li><a href="{{ '' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ 'cv.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -70,11 +70,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/code_crop.png" alt="" /></a>
 			<h3>Software</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
