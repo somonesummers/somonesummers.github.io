@@ -46,11 +46,11 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>About Me</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>I am a post-doctoral scholar advancing state-of-the art MRI technologies.  Specifically, I apply deep-learning methods to reconsruct cardiac MRI datasets.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -58,7 +58,7 @@ layout: default
 			<h3>CV</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
