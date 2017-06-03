@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/death_hollow_1.png" alt="" /></a>
 			<h3>About Me</h3>
 			<p>I am a post-doctoral scholar advancing state-of-the art MRI technologies.  Specifically, I apply deep-learning methods to reconsruct cardiac MRI datasets.</p>
 			<ul class="actions">
@@ -78,15 +78,15 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/ee102a_header_crop.png" alt="" /></a>
 			<h3>Teaching</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'teaching.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/merced_rr.png" alt="" /></a>
 			<h3>Fun</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
