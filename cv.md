@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-<p>This is a copy of my CV as of June 2017.  I will try to keep it updated, though I can't make any promises.</p>
+<p>This is a copy of my CV as of September 2017.  I will try to keep it updated, though I can't make any promises.</p>
 
 <object data="assets/documents/Gibbons_CV.pdf" type="application/pdf" width="100%" height="1000">
   
