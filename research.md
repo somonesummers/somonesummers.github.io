@@ -29,6 +29,7 @@ While our previous work to resolve the aliasing was robust, it relied on an exte
 
 ## Magnetization-Prepared Body DWI
 
-This work included a new single-shot slice selective SS-FSE sequence that uses a magnetization preparation module to achieve both diffusion weighting and fat suppression.  While the SNR of this method is inherently low, much of this SNR can be regained through scan averaging.  A new averaging reconstruction method is proposed.  This sequence and reconstruction are validated in simulation, in phantom experiments, and clinical *in vivo* scans.  This work is currently in submission to *Magnetic Resonance in Medicine*.
+This work included a new single-shot slice selective SS-FSE sequence that uses a magnetization preparation module to achieve both diffusion weighting and fat suppression.  While the SNR of this method is inherently low, much of this SNR can be regained through scan averaging.  We proposed a new averaging reconstruction approach for this work.  We validated this pulse sequence and reconstruction in simulation, in phantom experiments, and clinical *in vivo* scans.  This work has recently been accepted in *Magnetic Resonance in Medicine* and is currently in the proofing stage.  Links to e-prints are forthcoming.
 
-**Images are forthcoming**
+<span class="image fit"><img src="assets/images/research_im4.png" alt="" /></span>
+
