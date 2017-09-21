@@ -32,7 +32,7 @@ Held office hours, mentored class projects.
 
 ---
 
-## University of Utah, Department of Biomedical Engineering, Salt Lake City, Utah
+## University of Utah Department of Biomedical Engineering, Salt Lake City, Utah
 
 ### BIOEN 3900:  Biosignals Analysis
 Sophomore and junior level course in signal processing and analysis with biomedical applications.
