@@ -89,11 +89,11 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="#" class="image"><img src="assets/images/merced_rr.png" alt="" /></a>
+      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/merced_rr.png" alt="" /></a>
       <h3>Fun</h3>
       <p>I love the outdoors.  One of the benefits of growing up in Utah and going to school in California is the easy access to the incredible outdoors.</p>
       <ul class="actions">
-	<li><a href="#" class="button">More</a></li>
+	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
   </div>
