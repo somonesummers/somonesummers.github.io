@@ -2,12 +2,11 @@
 layout: page
 title: Publications
 ---
-**Manuscripts in Submission**
-- **Body diffusion-weighted imaging using magnetization prepared single-shot fast spin echo**  
-**Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
-*Magnetic Resonance in Medicine*, Status: accepted, in proofing process
-
 **Journal Publications**
+- **Body diffusion-weighted imaging using magnetization prepared single-shot fast spin echo and extended parallel imaging signal averaging**  
+**Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
+*Magnetic Resonance in Medicine*, 2017; doi:10.1002/mrm.26971 
+
 - **Robust Self-Calibrating nCPMG Aquisition: Application to Body Diffusion-Weighted Imaging**  
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
 *IEEE Transactions on Medical Imaging*, 2017; doi:10.1109/TMI.2017.2741421  [PDF](//ieeexplore.ieee.org/abstract/document/8012446/)
