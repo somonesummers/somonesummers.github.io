@@ -59,7 +59,7 @@ layout: default
     <article>
       <a href="{{ 'cv.html' | absolute_url }}" class="image"><img src="assets/images/campuses.png" alt="" /></a>
       <h3>CV</h3>
-      <p>This is a copy of my CV as of September 2017.  </p>
+      <p>This is a copy of my CV as of December 2017.  </p>
       <ul class="actions">
 	<li><a href="{{ 'cv.html' | absolute_url }}" class="button">More</a></li>
       </ul>
