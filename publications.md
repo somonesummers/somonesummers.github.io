@@ -7,13 +7,13 @@ title: Publications
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves,   
 *Magnetic Resonance in Medicine*, in submission. 
 
+- **Robust Self-Calibrating nCPMG Aquisition: Application to Body Diffusion-Weighted Imaging**  
+**Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
+*IEEE Transactions on Medical Imaging*, 2018; 37:200--209  [PDF](//ieeexplore.ieee.org/abstract/document/8012446/)
+
 - **Body diffusion-weighted imaging using magnetization prepared single-shot fast spin echo and extended parallel imaging signal averaging**  
 **Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
 *Magnetic Resonance in Medicine*, 2017; doi:10.1002/mrm.26971  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.26971/abstract)
-
-- **Robust Self-Calibrating nCPMG Aquisition: Application to Body Diffusion-Weighted Imaging**  
-**Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
-*IEEE Transactions on Medical Imaging*, 2017; doi:10.1109/TMI.2017.2741421  [PDF](//ieeexplore.ieee.org/abstract/document/8012446/)
 
 - **Slice profile effects on nCPMG SS-FSE**  
 **Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr,   
@@ -23,7 +23,12 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
 *IEEE Transactions on Medical Imaging*, 2017; 36:549--559  [PDF](//ieeexplore.ieee.org/document/7723819/)
 
+
 **Conference Proceedings**
+- **Deep-Learning-Based Super-Resolution and Segmentation for Clinical and Research Musculoskeletal MRI**  
+Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves,   
+*Proceedings of the {ISMRM} Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
+
 - **Deep slice:  expanding cardiac SMS coverage through deep learning slice interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. DiBella,   
 *Proceedings of International Society for Magnetic Resonance in Medicine, 26th Annual Meeting, Paris, France*, in submission. 
