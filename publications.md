@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 **Journal Publications**
+- **Simultaneous acquisition of 2D SMS and 3D cardiac perfusion MRI volumes using deep learning temporal interpolation**  
+**Eric K. Gibbons**, Jason Mendes, Akshay S. Chaudhari, and Ed V. R. DiBella,   
+*Magnetic Resonance in Medicine*, in preparation for submission in February 2018. 
+
 - **Super-resolution musculoskeletal MRI using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves,   
 *Magnetic Resonance in Medicine*, in submission. 
@@ -25,7 +29,11 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 
 
 **Conference Proceedings**
-- **Deep-Learning-Based Super-Resolution and Segmentation for Clinical and Research Musculoskeletal MRI**  
+- **Expanding SMS coverage in cardiac perfusion MRI through deep learning for temporal interpolation**  
+**Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. R. DiBella,   
+*Proceedings of the {ISMRM} Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
+
+- **Deep-learning-based super-resolution and segmentation for clinical and research musculoskeletal MRI**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves,   
 *Proceedings of the {ISMRM} Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
 
@@ -37,11 +45,11 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 **Eric K. Gibbons**, Patrick LeRoux, Shreyas Vasanawala, John M. Pauly, and Adam B. Kerr,   
 *Proceedings of International Society for Magnetic Resonance in Medicine, 25th Annual Meeting, Honolulu, Hawaii*, 2017, p. 3514  [PDF](assets/documents/ismrm/gibbons_ismrm_2017.html)
 
-- **Slice Profile Effects on non-CPMG SS-FSE Acquisitions**  
+- **Slice profile effects on non-CPMG SS-FSE acquisitions**  
 **Eric K. Gibbons**, John M. Pauly, and Adam B. Kerr,   
 *Proceedings of International Society for Magnetic Resonance in Medicine, 24rd Annual Meeting, Singapore, Singapore*, 2016, p. 1894  [PDF](assets/documents/ismrm/gibbons_ismrm_2016.html)
 
-- **Body DWI Using nCPMG FSE**  
+- **Body DWI using nCPMG FSE**  
 **Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr,   
 *Proceedings of International Society for Magnetic Resonance in Medicine, 23rd Annual Meeting, Toronto, Canada*, 2015, p. 2540  [PDF](assets/documents/ismrm/gibbons_ismrm_2015.pdf)
 
