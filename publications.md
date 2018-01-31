@@ -33,6 +33,14 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 Edward V. R. DiBella, **Eric K. Gibbons**, Jason Mendes, Ye Tian, and Ganesh Adluru  
 *Engineering in Medicine and Biology Society (EMBC), 2018 Annual International Conference of the IEEE*, in submission. 
 
+- **Deep slice:  expanding cardiac SMS coverage through deep learning slice interpolation**  
+**Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. DiBella  
+*Proceedings of International Society for Magnetic Resonance in Medicine, 26th Annual Meeting, Paris, France*, in submission. 
+
+- **Enhancing MRI resolution and fully-automating tissue segmentation using deep learning**  
+Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
+*Proceedings of the Nvidia GPU Technology Conference (GTC), San Jose, California, USA*, in submission. 
+
 - **Expanding SMS coverage in cardiac perfusion MRI through deep learning for temporal interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. R. DiBella  
 *Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
@@ -40,10 +48,6 @@ Edward V. R. DiBella, **Eric K. Gibbons**, Jason Mendes, Ye Tian, and Ganesh Adl
 - **Deep-learning-based super-resolution and segmentation for clinical and research musculoskeletal MRI**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
 *Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
-
-- **Deep slice:  expanding cardiac SMS coverage through deep learning slice interpolation**  
-**Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. DiBella  
-*Proceedings of International Society for Magnetic Resonance in Medicine, 26th Annual Meeting, Paris, France*, in submission. 
 
 - **Robust nCPMG SS-FSE with accelerated acquisition and reconstruction**  
 **Eric K. Gibbons**, Patrick LeRoux, Shreyas Vasanawala, John M. Pauly, and Adam B. Kerr  
