@@ -9,7 +9,11 @@ title: Publications
 
 - **Super-resolution musculoskeletal MRI using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Magnetic Resonance in Medicine*, in submission. 
+*Magnetic Resonance in Medicine*, 2018; doi:10.1002/mrm.27178 
+
+- **Slice profile effects on nCPMG SS-FSE**  
+**Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr  
+*Magnetic Resonance in Medicine*, 2018; 79:430-438  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.26694/abstract)
 
 - **Robust Self-Calibrating nCPMG Aquisition: Application to Body Diffusion-Weighted Imaging**  
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
@@ -18,10 +22,6 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 - **Body diffusion-weighted imaging using magnetization prepared single-shot fast spin echo and extended parallel imaging signal averaging**  
 **Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
 *Magnetic Resonance in Medicine*, 2017; doi:10.1002/mrm.26971  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.26971/abstract)
-
-- **Slice profile effects on nCPMG SS-FSE**  
-**Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr  
-*Magnetic Resonance in Medicine*, 2017; doi:10.1002/mrm.26694  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.26694/abstract)
 
 - **Body diffusion weighted imaging using non-CPMG fast spin echo**  
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
