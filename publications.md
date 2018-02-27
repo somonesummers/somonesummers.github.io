@@ -5,7 +5,7 @@ title: Publications
 **Journal Publications**
 - **Simultaneous acquisition of 2D SMS and 3D cardiac perfusion MRI volumes using deep learning temporal interpolation**  
 **Eric K. Gibbons**, Jason Mendes, Akshay S. Chaudhari, and Ed V. R. DiBella  
-*Magnetic Resonance in Medicine*, in preparation for submission in February 2018. 
+*Magnetic Resonance in Medicine*, in preparation for submission in March 2018. 
 
 - **Super-resolution musculoskeletal MRI using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
