@@ -35,19 +35,19 @@ Edward V. R. DiBella, **Eric K. Gibbons**, Jason Mendes, Ye Tian, and Ganesh Adl
 
 - **Deep slice:  expanding cardiac SMS coverage through deep learning slice interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. DiBella  
-*Proceedings of International Society for Magnetic Resonance in Medicine, 26th Annual Meeting, Paris, France*, in submission. 
+*Proceedings of International Society for Magnetic Resonance in Medicine, 26th Annual Meeting, Paris, France*, accepted. 
 
 - **Enhancing MRI resolution and fully-automating tissue segmentation using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Proceedings of the Nvidia GPU Technology Conference (GTC), San Jose, California, USA*, in submission. 
+*Proceedings of the Nvidia GPU Technology Conference (GTC), San Jose, California, USA*, accepted. 
 
 - **Expanding SMS coverage in cardiac perfusion MRI through deep learning for temporal interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. R. DiBella  
-*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
+*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, accepted. 
 
 - **Deep-learning-based super-resolution and segmentation for clinical and research musculoskeletal MRI**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, in submission. 
+*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*, accepted. 
 
 - **Robust nCPMG SS-FSE with accelerated acquisition and reconstruction**  
 **Eric K. Gibbons**, Patrick LeRoux, Shreyas Vasanawala, John M. Pauly, and Adam B. Kerr  
