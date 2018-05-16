@@ -5,15 +5,15 @@ title: Publications
 **Journal Publications**
 - **Simultaneous acquisition of 2D SMS and 3D cardiac perfusion MRI volumes using deep learning temporal interpolation**  
 **Eric K. Gibbons**, Jason Mendes, Akshay S. Chaudhari, and Ed V. R. DiBella  
-*Magnetic Resonance in Medicine*, in preparation for submission in May 2018. 
+*Magnetic Resonance in Medicine*, in preparation for submission in June 2018. 
 
-- **Multiple diffusion parameter map generation from subsampled q-space imaging using deep learning**  
-**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, and Ed V. R. DiBella  
-*Magnetic Resonance in Medicine*, in preparation for submission in April 2018. 
+- **Simultaneous cross parameter map generation from subsampled q-space imaging using deep learning**  
+**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, Lorie G. Richards, Jennifer J. Majersik, Ganesh Adluru, and Ed V. R. DiBella  
+*Magnetic Resonance in Medicine*, in submission. 
 
 - **Super-resolution musculoskeletal MRI using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Magnetic Resonance in Medicine*, 2018; doi:10.1002/mrm.27178  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.27178/abstract)
+*Magnetic Resonance in Medicine*, 2018; doi:10.1002/mrm.27178 
 
 - **Slice profile effects on nCPMG SS-FSE**  
 **Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr  
@@ -33,6 +33,10 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 
 
 **Conference Proceedings**
+- **Using Artificial Intelligence To Enhance MRI Efficiency For Imaging OA**  
+Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
+*International Workshop on Osteoarthritis Imaging, Menton, France*, in submission. 
+
 - **Using Artificial Intelligence to transform cardiac MRI reconstruction methods**  
 Edward V. R. DiBella, **Eric K. Gibbons**, Jason Mendes, Ye Tian, and Ganesh Adluru  
 *Engineering in Medicine and Biology Society (EMBC), 2018 Annual International Conference of the IEEE*, invited. 
@@ -47,11 +51,11 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 
 - **Expanding SMS coverage in cardiac perfusion MRI through deep learning for temporal interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. R. DiBella  
-*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*,   [PDF](assets/documents/ismrm/gibbons_ismrm_ai_2018.pdf)
+*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*,  
 
 - **Deep-learning-based super-resolution and segmentation for clinical and research musculoskeletal MRI**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*,   [PDF](assets/documents/ismrm/chaudhari_ismrm_ai_2018.pdf)
+*Proceedings of the ISMRM Workshop on Machine Learning, Pacific Grove, California, USA*,  
 
 - **Robust nCPMG SS-FSE with accelerated acquisition and reconstruction**  
 **Eric K. Gibbons**, Patrick LeRoux, Shreyas Vasanawala, John M. Pauly, and Adam B. Kerr  
