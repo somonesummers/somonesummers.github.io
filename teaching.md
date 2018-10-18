@@ -5,6 +5,16 @@ title: Teaching
 
 I come from a strong teaching tradition.  My mother is a teacher.  My grandparents on both sides of the family were teachers.  When I was recovering from a traumatic brain injury before my senior year of high school, a local college professor and ward member spent hours working with me to help me rebuild complete cognitive function.  Much of my life and worldview have been shaped by incredible teachers and my ever increasing regard for the profession.  Because of these influences, I have actively sought opportunities to teach throughout my life.  This includes tutoring at a local after-school program in high school, taking teaching assistant positions in undergraduate and graduate level classes in college, and serving as the primary instructor for an undergraduate engineering course at Stanford.  I have received an incredible education throughout my lifetime and I look forward to passing this passion for learning on to the next generation of engineers.  
 
+### Teaching Evaluations
+Teaching evaluations for EE102A (Signal and Sytems at Stanford) are available since Summer 2015.  Earlier course evaluations are unfortunately unavailable as Stanford revamped their evaluation system.
+
+Evaluations when I was primary instructor: [2015 scores](assets/documents/teaching_evals/EE102A-2014-2015_Summer-Ratings_Summary.pdf),
+[2015 responses](assets/documents/teaching_evals/EE102A-2014-2015_Summer-response.pdf),
+[2016 scores](assets/documents/teaching_evals/EE102A-2015-2016_Summer-Course_Report.pdf),
+[2016 responses](assets/documents/teaching_evals/EE102A-2015-2016_Summer-response.pdf)
+
+Evaluations when I was the head TA: [2016 responses](assets/documents/teaching_evals/EE102A-2015-2016_Winter-response.pdf)
+
 ---
 
 ## Stanford University Department of Electrical Engineering, Stanford, California

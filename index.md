@@ -65,6 +65,14 @@ layout: default
       </ul>
     </article>
     <article>
+      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/ee102a_header_crop.png" alt="" /></a>
+      <h3>Teaching</h3>
+      <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
+      <ul class="actions">
+	<li><a href="{{ 'teaching.html' | absolute_url }}" class="button">More</a></li>
+      </ul>
+    </article>
+    <article>
       <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/research.png" alt="" /></a>
       <h3>Research</h3>
       <p>A brief description of each of my research projects along with links to the associated articles.</p>
@@ -78,14 +86,6 @@ layout: default
       <p>A brief description and a link to some of the universally useful software that I wrote during graduate school.  </p>
       <ul class="actions">
 	<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
-      </ul>
-    </article>
-    <article>
-      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/ee102a_header_crop.png" alt="" /></a>
-      <h3>Teaching</h3>
-      <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
-      <ul class="actions">
-	<li><a href="{{ 'teaching.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
     <article>
