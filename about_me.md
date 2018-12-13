@@ -28,6 +28,10 @@ image: assets/images/beanie_crop.jpg
 
 <p>I decided to pursue a PhD after college.  At the time I had hoped to continue in signal processing.  Tori (then my girlfriend and now my wife) was at Stanford Law School.  We felt it made sense to be at the same place, so I applied to Stanford for my PhD.  I was fortunate to attend Stanford as it was very strong in medical imaging, particularly in MRI.  In grad school I studied under Prof. John Pauly in electrical engineering working on body diffusion-weighted MRI.  My PhD spanned most aspects of MRI, including biophysics, MR physics, pulse sequence design, RF pulse design and power deposition analysis, reconstruction algorithms, numerical simulation, and clinical implementation.  My thesis was titled "Robust body diffusion-weighted magnetic resonance imaging."  While not in lab or at home I spent a lot of time on my bicycle.  I began amateur road bicycle racing, seeing much of California in the process.  As grad school wound down I spent more time on my mountain biking, enjoying the awesome trails in the redwood forests near Santa Cruz.</p>
 
+<p>Teaching was also core components of my Ph.D.  I was fortunate to secure external funding through the National Science Foundation Graduate Research Fellowship Program for the majority of my graduate studies but elected to serve as the lead teaching assistant for multiple courses and twice acted as the primary instructor for a summer quarter class in Electrical Engineering.  In those capacities I held office hours, graded, and lectured.  (Teaching evaluations can be found at \url{ekgibbons.github.io/teaching}.)</p>
+
+<p>During graduate school I became interested in artificial intelligence and how to apply these new technologies to interested interesting engineering problems.  To put my knowledge into practice, I worked as a deep learning engineer MedWhat (an artificial intelligence medical assistant) while I finished my PhD.</p>
+
 <p>After grad school, my family returned to Utah for me to work in the Utah Center for Advanced Imaging Research as a post-doctoral scholar working under Ed DiBella.</p>
 
 <div class="box alt">
