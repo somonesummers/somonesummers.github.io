@@ -25,6 +25,9 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/ekgibbons
 
+# Google Analytics
+google_analytics: UA-106731083-1 
+
 # Build settings
 markdown: kramdown
 plugins:
