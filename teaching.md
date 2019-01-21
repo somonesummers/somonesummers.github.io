@@ -17,7 +17,7 @@ Evaluations when I was the head TA: [2016 responses](assets/documents/teaching_e
 
 ---
 
-## Stanford University Department of Electrical Engineering, Stanford, California
+## Stanford University Department of Electrical Engineering
 
 ### EE102A: Signals and Systems
 Sophomore and junior level course in continuous- and discrete-time signal and system analysis.
@@ -38,11 +38,18 @@ Held office hours, held recitation sessions, lectured occasionally.
 Graduate level course on medical imaging reconstruction problems.
 
 **Teaching Assistant, with John Pauly: Fall 2015**<br />
-Held office hours, mentored class projects.    
+Held office hours, mentored class projects.
+
+### EFS/Lang 688: Writing for Engineering and Science
+Class for incoming international graduate students on academic writing, listening, discussion, oral presentation, and spoken usage.
+
+**Academic Consultant, with Lisa Quijano: Summer 2014**<br />
+Held office hours, occasionally lectured, consulted on writing projects.
+
 
 ---
 
-## University of Utah Department of Biomedical Engineering, Salt Lake City, Utah
+## University of Utah Department of Biomedical Engineering
 
 ### BIOEN 3900:  Biosignals Analysis
 Sophomore and junior level course in signal processing and analysis with biomedical applications.

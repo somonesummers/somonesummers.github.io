@@ -30,7 +30,7 @@ image: assets/images/beanie_crop.jpg
 
 <p>Teaching was also core components of my Ph.D.  I was fortunate to secure external funding through the National Science Foundation Graduate Research Fellowship Program for the majority of my graduate studies but elected to serve as the lead teaching assistant for multiple courses and twice acted as the primary instructor for a summer quarter class in Electrical Engineering.  In those capacities I held office hours, graded, and lectured.  (Teaching evaluations can be found at \url{ekgibbons.github.io/teaching}.)</p>
 
-<p>During graduate school I became interested in artificial intelligence and how to apply these new technologies to interesting engineering problems.  To put my knowledge into practice, I worked as a deep learning engineer MedWhat (an artificial intelligence medical assistant) while I finished my PhD.</p>
+<p>During graduate school I became interested in artificial intelligence and how to apply these new technologies to interesting engineering problems.  To put my knowledge into practice, I worked as a deep learning engineer at MedWhat (an artificial intelligence medical assistant) while I finished my PhD.</p>
 
 <p>After grad school, my family returned to Utah for me to work in the Utah Center for Advanced Imaging Research as a post-doctoral scholar working under Ed DiBella.</p>
 
