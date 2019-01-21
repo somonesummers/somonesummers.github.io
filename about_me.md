@@ -18,7 +18,7 @@ image: assets/images/beanie_crop.jpg
 
 <div class="box alt">
      <div class="row 50% uniform">
-     	  <div class="4u"><span class="image fit"><img src="assets/images/mission.jpg" alt="" /></span></div>
+     	  <div class="4u"><span class="image fit"><img src="assets/images/fishing.jpg" alt="" /></span></div>
           <div class="4u"><span class="image fit"><img src="assets/images/stitched_web.jpg" alt="" /></span></div>
      	  <div class="4u$"><span class="image fit"><img src="assets/images/graduation_utah.jpg" alt="" /></span></div>
      </div>
