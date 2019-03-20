@@ -51,20 +51,12 @@ layout: default
     <article>
       <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/death_hollow_1.png" alt="" /></a>
       <h3>About Me</h3>
-      <p>I am a post-doctoral scholar advancing state-of-the art MRI technologies.  Specifically, I apply deep-learning methods to reconsruct cardiac MRI datasets.</p>
+      <p>I am an asssistant professor in the Electrical and Computer Engineering Department at Weber State University.  My work aims to advance state-of-the art MRI technologies.</p>
       <ul class="actions">
 	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
-    <article>
-      <a href="{{ 'cv.html' | absolute_url }}" class="image"><img src="assets/images/campuses.png" alt="" /></a>
-      <h3>CV</h3>
-      <p>This is a copy of my CV, updated periodically.  </p>
-      <ul class="actions">
-	<li><a href="{{ 'cv.html' | absolute_url }}" class="button">More</a></li>
-      </ul>
-    </article>
-    <article>
+        <article>
       <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/ee102a_header_crop.png" alt="" /></a>
       <h3>Teaching</h3>
       <p>Throughout college and in graduate school I have had many oppurtunities to be a part of undergraduate and graduate education.</p>
@@ -78,6 +70,14 @@ layout: default
       <p>A brief description of each of my research projects along with links to the associated articles.</p>
       <ul class="actions">
 	<li><a href="{{ 'research.html' | absolute_url}}" class="button">More</a></li>
+      </ul>
+    </article>
+        <article>
+      <a href="{{ 'cv.html' | absolute_url }}" class="image"><img src="assets/images/campuses.png" alt="" /></a>
+      <h3>CV</h3>
+      <p>This is a copy of my CV, updated periodically.  </p>
+      <ul class="actions">
+	<li><a href="{{ 'cv.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
     <article>

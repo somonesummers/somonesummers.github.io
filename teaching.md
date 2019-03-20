@@ -3,7 +3,40 @@ layout: page
 title: Teaching
 ---
 
-I come from a strong teaching tradition.  My mother is a teacher.  My grandparents on both sides of the family were teachers.  When I was recovering from a traumatic brain injury before my senior year of high school, a Weber State communications professor spent hours working with me to help me rebuild complete cognitive function.  Much of my life and worldview have been shaped by incredible teachers and my ever increasing regard for the profession.  Because of these influences, I have actively sought opportunities to teach throughout my life.  This includes tutoring at a local after-school program in high school, taking teaching assistant positions in undergraduate and graduate level classes in college, and serving as the primary instructor for an undergraduate engineering course at Stanford.  I have received an incredible education throughout my lifetime and I look forward to passing this passion for learning on to the next generation of engineers.  
+
+
+## Weber State University Electrical and Computer Engineering
+
+### Current Classes (Fall 2019)
+
+* ECE 3210:  Signals and Systems
+
+Note:  a copy of my current schedule can be found [here](schedule).
+
+## Stanford University Electrical Engineering (2013-2016)
+
+* EE 102A:  Signals and Systems
+* EE 369B:  Medical Imaging Systems II
+* EE 369C:  Medical Imaging Reconstruction
+* EFS/Lang 688:  Writing for Science and Engineering
+
+## University of Utah Biomedical Engineering (2009-2011)
+
+* BIOEN 3900:  Biosignals Analysis
+* BIOEN 5101:  Bioinstrumentation
+
+
+<!---
+### BIOEN 3900:  Biosignals Analysis
+Sophomore and junior level course in signal processing and analysis with biomedical applications.
+
+**Teaching Assistant, with Edward Hsu: Spring 2011**<br />
+Graded, held office hours, held recitation.  
+
+### BIOEN 5101:  Bioinstrumentation
+
+
+
 
 ### Teaching Evaluations
 Teaching evaluations for EE102A (Signal and Sytems at Stanford) are available since Summer 2015.  Earlier course evaluations are unfortunately unavailable as Stanford revamped their evaluation system.
@@ -62,3 +95,4 @@ Junior and senior level course in electronics and signal processing with biomedi
 
 **Teaching Assistant, with Edward Hsu: Fall 2009, Fall 2010**<br />
 Developed an entirely new laboratory component for the course, graded, held office hours, held recitation, lectured occasionally. 
+-->
