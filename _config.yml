@@ -2,42 +2,28 @@
 title: Eric Gibbons
 subtitle: signal processing engineer
 email: ericgibbons (at) weber (dot) edu
-description: MY PERSONAL WEBPAGE
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "ekgibbons.github.io" # the base hostname & protocol for your site
-#url: "" # the base hostname & protocol for your site
+description: MY PERSONAL PAGE
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author: Eric Gibbons
-street_address:  1447 Edvalson St. Dept 1803
+street_address: 1447 Edvalson St. Dept. 1803
 city: Ogden
 state: UT
 zip_code: 84408-1803
 country: United States of America
 phone:
 
-
-# Conversion markdown: redcarpet 
-# highlighter: pygments 
-#redcarpet: extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
-
 # Social settings
 500px_url:
-facebook_url: 
+facebook_url:
 github_url: https://github.com/ekgibbons
 gitlab_url:
 googleplus_url:
-instagram_url: 
-linkedin_url: 
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
-
-# Google Analytics
-google_analytics: UA-106731083-1 
+twitter_url:
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-plugins:
- - jekyll-seo-tag
- 
