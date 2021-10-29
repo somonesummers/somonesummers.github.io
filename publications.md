@@ -4,46 +4,50 @@ title: Publications
 ---
 **Journal Publications**
 - **Rapid STCR cardiac perfusion reconstruction using convolutional neural networks**  
-**Eric K. Gibbons**, Jason Mendes, Akshay S. Chaudhari, and Ed V. R. DiBella  
-*Magnetic Resonance in Medicine*, in preparation for submission in December 2018. 
+**Eric K. Gibbons**, Ye Tian, Akshay S. Chaudhari, and Ed V. R. DiBella  
+*Magnetic Resonance in Medicine*, in preparation for submission in March 2020. 
 
-- **Simultaneous cross parameter map generation from subsampled q-space imaging using deep learning**  
-**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, Lorie G. Richards, Jennifer J. Majersik, Ganesh Adluru, and Ed V. R. DiBella  
-*Magnetic Resonance in Medicine*, 2018; 00:1-13 
+- **Utility of deep learning super-resolution in the context of osteoarthritis MRI biomarkers**  
+Akshay S. Chaudhari, Kathryn J. Stevens, Jeff P. Wood, Amit K. Chakraborty, **Eric K. Gibbons**, Zhongnan Fang, Arjun D. Desai, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
+*Journal of Magnetic Resonance Imaging*, 2019  [PDF](onlinelibrary.wiley.com/doi/abs/10.1002/jmri.26872)
+
+- **Simultaneous NODDI and GFA parameter map generation from subsampled q-space imaging using deep learning**  
+**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, Lorie G. Richards, Jennifer J. Majersik, Ganesh Adluru, and Edward VR DiBella  
+*Magnetic Resonance in Medicine*, 2019; 81:2399--2411  [PDF](onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27568)
 
 - **Super-resolution musculoskeletal MRI using deep learning**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Magnetic Resonance in Medicine*, 2018; 80:2139-2154  [PDF](//onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27178)
+*Magnetic Resonance in Medicine*, 2018; 80:2139-2154  [PDF](onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27178)
 
 - **Body diffusion-weighted imaging using magnetization prepared single-shot fast spin echo and extended parallel imaging signal averaging**  
 **Eric K. Gibbons**, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
-*Magnetic resonance in medicine*, 2018; 79:3032--3044  [PDF](//onlinelibrary.wiley.com/doi/full/10.1002/mrm.26971)
-
-- **Slice profile effects on nCPMG SS-FSE**  
-**Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr  
-*Magnetic Resonance in Medicine*, 2018; 79:430-438  [PDF](//onlinelibrary.wiley.com/doi/10.1002/mrm.26694/abstract)
+*Magnetic Resonance in Medicine*, 2018; 79:3032--3044  [PDF](onlinelibrary.wiley.com/doi/full/10.1002/mrm.26971)
 
 - **Robust Self-Calibrating nCPMG Aquisition: Application to Body Diffusion-Weighted Imaging**  
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
-*IEEE Transactions on Medical Imaging*, 2018; 37:200--209  [PDF](//ieeexplore.ieee.org/abstract/document/8012446/)
+*IEEE Transactions on Medical Imaging*, 2018; 37:200--209  [PDF](ieeexplore.ieee.org/abstract/document/8012446/)
+
+- **Slice profile effects on nCPMG SS-FSE**  
+**Eric K. Gibbons**, Patrick Le Roux, John M. Pauly, and Adam B. Kerr  
+*Magnetic Resonance in Medicine*, 2018; 79:430-438  [PDF](onlinelibrary.wiley.com/doi/10.1002/mrm.26694/abstract)
 
 - **Body diffusion weighted imaging using non-CPMG fast spin echo**  
 **Eric K. Gibbons**, Patrick Le Roux, Shreyas S. Vasanawala, John M. Pauly, and Adam B. Kerr  
-*IEEE Transactions on Medical Imaging*, 2017; 36:549--559  [PDF](//ieeexplore.ieee.org/document/7723819/)
+*IEEE Transactions on Medical Imaging*, 2017; 36:549--559  [PDF](ieeexplore.ieee.org/document/7723819/)
 
 
 **Conference Proceedings**
-- **Using CNNs for computing diffusion spectrum imaging parameters without image preprocessing**  
-**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, Lorie G. Richards, Jennifer J. Majersik, Ganesh Adluru, and Ed V. R. DiBella  
-*Proceedings of International Society for Magnetic Resonance in Medicine, 27th Annual Meeting, Montreal, Canada*, in submission. 
+- **Rapid myocardial perfusion MRI reconstruction using deep learning networks**  
+**Eric K. Gibbons**, Akshay S. Chaudhari, Ganesh Adluru, and Ed V. R. DiBella  
+*Proceedings of International Society for Magnetic Resonance in Medicine, 27th Annual Meeting, Sydney, Australia*, 2020, p. 7047 
 
-- **Computing filtered backprojection reconstruction using CNNs**  
-**Eric K. Gibbons**, Jason Mendes, Ganesh Adlurur, and Ed V. R. DiBella  
-*Proceedings of International Society for Magnetic Resonance in Medicine, 27th Annual Meeting, Montreal, Canada*, in submission. 
+- **Deep learning for DSI parameter map generation without image pre-processing**  
+**Eric K. Gibbons**, Kyler K. Hodgson, Akshay S. Chaudhari, Lorie G. Richards, Jennifer J. Majersik, Ganesh Adluru, and Ed V. R. DiBella  
+*Proceedings of International Society for Magnetic Resonance in Medicine, 27th Annual Meeting, Montreal, Canada*, 2019, p. 3359 
 
 - **Super-resolution enhances morphological and quantitative MRI on prospectively-sampled low-resolution data**  
 Akshay S. Chaudhari, Zhongnan Fang, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
-*Proceedings of Medical Imaging Meets NIPS, 32nd Conference on Neural Information Processing Systems, Montreal, Canada*, in submission. 
+*Proceedings of Medical Imaging Meets NIPS, 32nd Conference on Neural Information Processing Systems, Montreal, Canada*, 2019 
 
 - **Using artificial intelligence to enhance MRI efficiency for imaging OA**  
 Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens, **Eric K. Gibbons**, Jin Hyung Lee, Garry E. Gold, and Brian A. Hargreaves  
@@ -51,7 +55,7 @@ Akshay S. Chaudhari, Zhongnan Fang, Feliks Kogan, Jeff Wood, Kathryn J. Stevens,
 
 - **Using artificial intelligence to transform cardiac MRI reconstruction methods**  
 Edward V. R. DiBella, **Eric K. Gibbons**, Jason Mendes, Ye Tian, and Ganesh Adluru  
-*Engineering in Medicine and Biology Society (EMBC), 2018 Annual International Conference of the IEEE*, in submission. 
+*Engineering in Medicine and Biology Society (EMBC), 2018 Annual International Conference of the IEEE*, 2018 
 
 - **Deep slice:  expanding cardiac SMS coverage through deep learning slice interpolation**  
 **Eric K. Gibbons**, Akshay S. Chaudhari, and Edward V. DiBella  

@@ -3,8 +3,9 @@ title: Eric Gibbons
 subtitle: signal processing engineer
 email: ericgibbons (at) weber (dot) edu
 description: MY PERSONAL WEBPAGE
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/ericgibbons" # the subpath of your site, e.g. /blog
+url: "http://faculty.weber.edu" # the base hostname & protocol for your site
+#url: "" # the base hostname & protocol for your site
 author: Eric Gibbons
 street_address:  1447 Edvalson St. Dept 1803
 city: Ogden
@@ -12,6 +13,12 @@ state: UT
 zip_code: 84408-1803
 country: United States of America
 phone:
+
+
+# Conversion markdown: redcarpet 
+# highlighter: pygments 
+#redcarpet: extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
 
 # Social settings
 500px_url:
@@ -30,5 +37,7 @@ google_analytics: UA-106731083-1
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 plugins:
  - jekyll-seo-tag
+ 

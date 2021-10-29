@@ -11,6 +11,11 @@ This is some basic documentation for some of the more commonly functions I have 
 
 <a href="https://ekgibbons.github.io/python_utils-docs" target="_blank" class="button">Python utilities documenation</a>
 
+A blurb I wrote on git documentation is here.
+
+<a href="{{ 'git_stuff.html' | absolute_url }}" target="_blank" class="button">Git tutorial</a>
+
+
 ## SLR Pulse Design
 
 Shinnar-Le Roux (SLR) radiofrequency (RF) pulses are common on MRI.  While [many tools](http://rsl.stanford.edu/research/software.html) exist to design such pulses, these are often in Matlab.  This is a version similar to the Pauly implementation, though the interface is written in Python and incorporates object-oriented design.  Source and examples are here. The backend of this code is written in C/C++ and requires Boost 1.63 to compile (with the proper paths needing to be set in the Makefile).  C++ code using the Boost Python/Numpy interfaces.  This also requires an FIR pulse design toolbox I have designed.
