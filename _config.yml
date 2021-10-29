@@ -4,7 +4,7 @@ subtitle: signal processing engineer
 email: ericgibbons (at) weber (dot) edu
 description: MY PERSONAL WEBPAGE
 baseurl: "/ericgibbons" # the subpath of your site, e.g. /blog
-url: "http://faculty.weber.edu" # the base hostname & protocol for your site
+url: "ekgibbons.github.io" # the base hostname & protocol for your site
 #url: "" # the base hostname & protocol for your site
 author: Eric Gibbons
 street_address:  1447 Edvalson St. Dept 1803
