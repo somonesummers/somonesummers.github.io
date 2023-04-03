@@ -1,22 +1,22 @@
 # Site settings
-title: Eric Gibbons
-subtitle: signal processing engineer
-email: ericgibbons (at) weber (dot) edu
+title: Paul Summers
+subtitle: Geophysic PhD Candidate
+email: psummers (at) stanford (dot) edu
 description: MY PERSONAL PAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Eric Gibbons
-street_address: 1447 Edvalson St. Dept. 1803
-city: Ogden
-state: UT
-zip_code: 84408-1803
+author: Paul Summers
+street_address: 224 Oak Ct
+city: Menlo Park
+state: CA
+zip_code: 94025
 country: United States of America
 phone:
 
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/ekgibbons
+github_url: https://github.com/somonesummers
 gitlab_url:
 googleplus_url:
 instagram_url:
