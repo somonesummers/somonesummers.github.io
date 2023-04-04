@@ -4,14 +4,29 @@ title: Fieldwork
 image: assets/images/paulMcmShelfCrop.jpg
 ---
 
-
-# Fieldwork
-
 ## Joshua Tree National Park March 2023 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree1.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree2.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/joshuaTree3.jpg" alt="" /></span></div>
+  </div>
+</div>
+
 ### Rock Climbing: Intermediate Anchors
 Brief Blurb, more and photos here
 
 ## Coyote Valley, California May 2022 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/coyoteValley1.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/coyoteValley2.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/coyoteValley3.jpg" alt="" /></span></div>
+  </div>
+</div>
+
 ### Near Surface Geophysics: Imaging Groundwater Systems
 Brief Blurb, more and photos here
 
