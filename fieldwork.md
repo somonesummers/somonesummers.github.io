@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fieldwork
+image: assets/images/paulMcmShelfCrop.jpg
 ---
 
 

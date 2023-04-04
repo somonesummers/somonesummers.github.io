@@ -49,7 +49,7 @@ layout: default
   </header>
   <div class="posts">
     <article>
-      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
+      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/henryCoe.jpg" alt="" /></a>
       <h3>About Me</h3>
       <p>Place holder about me</p>
       <ul class="actions">
@@ -81,7 +81,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
+      <a href="{{ 'fieldwork.html' | absolute_url }}" class="image"><img src="assets/images/paulMcmShelf.jpg" alt="" /></a>
       <h3>Field Work</h3>
       <p>Place holder </p>
       <ul class="actions">

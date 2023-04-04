@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/sisters_crop.jpg
+image: assets/images/henryCoeCrop.jpg
 ---
 
 <div class="box alt">
@@ -12,7 +12,7 @@ image: assets/images/sisters_crop.jpg
   </div>
 </div>
 
-<p>place holder</p>
+<p>This page is currently a work in progress</p>
 
 <p>place holder</p>
 
