@@ -10,7 +10,7 @@ Personal Interests page is under construction.
 Brief Blurb, more and photos here
 
 <ul class="actions">
-	<li><a href="{{ 'edurance.html' | absolute_url }}" class="button">More</a></li>
+	<li><a href="{{ 'endurance.html' | absolute_url }}" class="button">More</a></li>
       </ul>
 
 
