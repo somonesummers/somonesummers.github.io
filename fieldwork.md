@@ -17,6 +17,10 @@ image: assets/images/paulMcmShelfCrop.jpg
 ### Outdoor Educator Apprentice for Rock Climbing: Intermediate Anchors 
 Brief Blurb, more and photos here
 
+<ul class="actions">
+	<li><a href="{{ 'joshuaTree.html' | absolute_url }}" class="button">More</a></li>
+      </ul>
+
 ## Coyote Valley, California May 2022 
 
 <div class="box alt">
@@ -30,6 +34,10 @@ Brief Blurb, more and photos here
 ### Teaching Assistant for Near Surface Geophysics: Imaging Groundwater Systems 
 Brief Blurb, more and photos here
 
+<ul class="actions">
+	<li><a href="{{ 'coyoteValley.html' | absolute_url }}" class="button">More</a></li>
+      </ul>
+
 ## Thwaites Glacier, Antarctica Oct 2021 - Jan 2022 
 
 <div class="box alt">
@@ -42,5 +50,9 @@ Brief Blurb, more and photos here
 
 ### Scientist on TIME Team Expedition
 Brief Blurb, more and photos here
+
+<ul class="actions">
+	<li><a href="{{ 'TIME2021.html' | absolute_url }}" class="button">More</a></li>
+      </ul>
 
 
