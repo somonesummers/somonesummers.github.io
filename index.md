@@ -82,10 +82,10 @@ layout: default
     </article>
     <article>
       <a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
-      <h3>Software</h3>
+      <h3>Field Work</h3>
       <p>Place holder </p>
       <ul class="actions">
-	<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
+	<li><a href="{{ 'fieldwork.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
     <article>
