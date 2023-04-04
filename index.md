@@ -83,7 +83,7 @@ layout: default
     <article>
       <a href="{{ 'software.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
       <h3>Software</h3>
-      <p>{Place holder} </p>
+      <p>Place holder </p>
       <ul class="actions">
 	<li><a href="{{ 'software.html' | absolute_url }}" class="button">More</a></li>
       </ul>
