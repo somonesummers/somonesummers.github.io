@@ -22,13 +22,9 @@ I started taking photos when I got my first DSLR in my senior year of high schoo
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="1u$"><span class="image fit"><img src="assets/images/ceramics2.jpg" alt="" /></span></div>
-  </div>
-</div> 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/ceramics1.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/ceramics3.jpg" alt="" /></span></div>
+    <div class="2u"><span class="image fit"><img src="assets/images/ceramics1.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/ceramics2.jpg" alt="" /></span></div>
+    <div class="2u$"><span class="image fit"><img src="assets/images/ceramics3.jpg" alt="" /></span></div>
   </div>
 </div>
 
