@@ -4,7 +4,7 @@ title: Creative Hobbies
 image: assets/images/tent.jpg
 ---
 
-I enjoy expressing my creativity in hobbies that exist at the intersection of structured process and personal touches of expression. I especially enjoy creating objects that I can use to fill the world around me from my morning mug of coffee, the backpack I bring to work, and the images I use as my screensaver on my computer. 
+I enjoy expressing my creativity in hobbies that exist at the intersection of structured process and personal customization. I especially enjoy creating objects that I can use to fill the world around me from my morning mug of coffee, the backpack I bring to work, and the images I use as my screensaver on my computer. 
 
 ### Photography
 
