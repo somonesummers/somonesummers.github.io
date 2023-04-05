@@ -27,7 +27,7 @@ I was recruited for the Stanford Cross Country as a red shirt freshman, I never 
   <div class="row 50% uniform">
     <div class="4u"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="" /></span></div>
     <div class="4u"><span class="image fit"><img src="assets/images/cycling2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/cycling3.jpg" alt="" /></span></div>
   </div>
 </div>
 
