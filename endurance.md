@@ -40,4 +40,4 @@ I again found a strong community on the cycling team, and have stayed close to m
 
 After cycling, I again returned to running, though this time mainly on trail, and mostly much much slower. This odd curiosity to see just how far I can run is shared with a few friends who have the patience to hear me tell the same story 5+ times (on the same run sometimes...). I tend to do only 1 or 2 'races' a year, and tackle other random goals. In 2022 I ran at least a marathon distance at least once every month (December was hardest), including the Grand Canyon, and a few long point to point sections of the bay area ridge trail. I'd like to run a marathon on every continent eventually, and am trying to decide if I want to try running 100 miles. 
 
-You can see what I'm up to recently at[my Strava account](https://www.strava.com/athletes/43072) or on [ultra sign up](https://ultrasignup.com/results_participant.aspx?fname=Paul&lname=Summers). 
+You can see what I'm up to recently at [my Strava account](https://www.strava.com/athletes/43072) or on [ultra sign up](https://ultrasignup.com/results_participant.aspx?fname=Paul&lname=Summers). 
