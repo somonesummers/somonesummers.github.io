@@ -6,15 +6,16 @@ image: assets/images/tent.jpg
 
 I enjoy expressing my creativity in hobbies that exist at the intersection of structured process and personal touches of expression. I especially enjoy creating objects that I can use to fill the world around me from my morning mug of coffee, the backpack I bring to work, and the images I use as my screensaver on my computer. 
 
+### Photography
+
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/joshuaTree3.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/photos1.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/photos2.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/photos3.jpg" alt="" /></span></div>
   </div>
 </div>
 
-### Photography
 I started taking photos when I got my first DSLR in my senior year of high school. My freshman year I took a digital photography class, deepening my understanding of the mechanics of digital, and inspiring me to take photography more seriously. I began taking mostly landscapes photos on family backpacking trips, then taking photos for the cycling team and track team I coached. My senior year of college I also took a fine arts photography course after which I began focusing more on portraits and photos of human subjects in the outdoors. I used to post most of my photos to my [flickr page](https://www.flickr.com/photos/paul_summers/), but in the last 5 years I have been the leaving the camera at home more, for better or worse. I've recently been missing photography, so maybe I'll have more updates here soon.
 
 ### Ceramics
