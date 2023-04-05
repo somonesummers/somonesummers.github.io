@@ -6,6 +6,15 @@ image: assets/images/r2r2rCrop.jpg
 
 ### High School Track and Cross Country Running
 
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="3u"><span class="image fit"><img src="assets/images/gunn1.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/gunn2.jpg" alt="" /></span></div>
+    <div class="3u$"><span class="image fit"><img src="assets/images/gunn3.jpg" alt="" /></span></div>
+  </div>
+</div>
+
+
 I started running in middle school when we had to run the mile every other week in PE. for some reason I decided it was more fun to run fast, and eventually I was convinced I should join the cross country team that fall. I ended up dropping baseball and soccer in high school and started running year round in Track (1 & 2 mile mostly) and Cross Country. I made the Varsity team all 4 years, and competed in State Cross Country and Track meets. I spent my fair of time on a track during this time, to the point I'm still a little shy of them today. 
 
 Most importantly, I found a great community of friends on the track and cross country team. These friends helped shape who I became today, and I've stayed close with many of them to this day, even meeting up for weekday runs when we find the time. 
@@ -13,6 +22,14 @@ Most importantly, I found a great community of friends on the track and cross co
 I was recruited for the Stanford Cross Country as a red shirt freshman, I never competed for the team officially though I did run some of the same races. The higher volume summer and fall training for competing at that level left me fairly burned out, and took the joy out of running for me, so I and walked off the team after that season.
 
 ### College Cycling 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/cycling2.jpg" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="" /></span></div>
+  </div>
+</div>
 
 My sophomore year of undergrad, moving on from running I found the cycling club, which for me struck a better balance between competitiveness and fun than running. I got into road cycling, preferring road races over criteriums (I broke my collar bone in my first criterium, rough start) and cross country mountain biking. 
 
