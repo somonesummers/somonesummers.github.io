@@ -19,7 +19,7 @@ I started running in middle school when we had to run the mile every other week 
 
 Most importantly, I found a great community of friends on the track and cross country team. These friends helped shape who I became today, and I've stayed close with many of them to this day, even meeting up for weekday runs when we find the time. 
 
-I was recruited for the Stanford Cross Country as a red shirt freshman, I never competed for the team officially though I did run some of the same races. The higher volume summer and fall training for competing at that level left me fairly burned out, and took the joy out of running for me, so I and walked off the team after that season.
+I was recruited for the Stanford Cross Country as a red shirt freshman, I never competed for the team officially though I did run some of the same races. The higher volume summer and fall training for competing at that level left me fairly burned out, and took the joy out of running for me, so I walked off the team after that season.
 
 ### College Cycling 
 
