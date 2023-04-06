@@ -94,7 +94,7 @@ Love you!
 
 ## Nov 9 2021
 
-# Another update from 77.8419° S
+### Another update from 77.8419° S
 
 Things are starting to ramp up here, we are about 1.5 weeks away from our scheduled flights out, so we are beginning to pack and send away our largest pieces of cargo. It's a little astounding how much stuff we are bringing, but I guess it makes sense given where we're going.
 
@@ -148,7 +148,7 @@ Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, 
 
 ## November 14 2021
 
-# Update #3: Blue Ice, Lots of food, and my first (stuffed) penguin sighting!
+### Update #3: Blue Ice, Lots of food, and my first (stuffed) penguin sighting!
 
 
 Its been a busy week this week, but there were definitely a few particularly photogenic moments. We had our second day of glacier training, which involved learning to drive snow mobiles (called ski-doos here), driving ski-doos while tied together incase one falls in, and importantly practice walking around known crevasses. Between you me and the fence post, we did this largely for the practice driving ski-doos to get here, but the walking in the crevasse was a wonderful cherry on top for the day! We will not encounter any crevasses like this in our field research. This feature is known as the IMAX crevasse for reasons that will later be apparent. 
@@ -180,7 +180,7 @@ I now am a proud owner of a baby penguin, but I am still yearning to see one in 
 
 ## Nov 20 2021
 
-# Update #4: The Waiting Begins...
+### Update #4: The Waiting Begins...
 
 
 We had a busy again this last week as we finished up our science testing work on the Ross Ice Shelf and sea ice near town in preparation for our flight out to the field that was scheduled for yesterday, but has now been delayed at least a week due to weather. Its a bummer to already be running behind on our full schedule, but least you get another fun update from me :D
@@ -205,7 +205,7 @@ That's all for this update! I'll be thinking of you all this week! Even though I
 
 ## November 27 2021
 
-# Update #5: 1 month and counting...
+### Update #5: 1 month and counting...
 
 We've had a noticeably less productive week here, but we've been doing our best to stay busy and/or mildly productive during our weather delay in McMurdo. One of our last tasks this week was fully packing our personal bags (ie not science or camping equipment, just clothes/personal items) to weigh them for the final touch to our cargo planning. This was a good time to realize you're missing 2 left socks and trying to remember where you put your favorite hat before we actually are scheduled to fly out. I've been  worried about having cold hands/wearing through my gloves while working, but laying out all my gloves has convinced me that I may have enough. I think the final count was 4x mittens, 15x gloves, and 4x liner gloves (I usually don't use these). I'm also trying lots of styles, so I'm sure I'll have recommendations when I'm back if you're curious.
 
@@ -249,7 +249,7 @@ So, I'm not really complaining about being 'stuck' in McMurdo for this time, but
 
 ## Dec 4 2021
 
-# Update 6: Almost there!
+### Update 6: Almost there!
 
 
 Exciting news! The WAIS camp crew was able to fly in on Monday (Nov 29, 21 days delayed) and our mountaineers flew in Saturday which means we will likely be following them soon on flights of our own. Possibly as soon as tomorrow, but more likely Wednesday for me. I've also been forgetting to mention it, but our team has been writing a blog which has more fun updates on our trip and photos, you can find that here: https://studyearth.wixsite.com/thwaitestime/blog. Since I will be moving off email when we leave for WAIS, I thought I'd spend an email talking about everyone's favorite topic:
@@ -318,7 +318,7 @@ I will miss you all this holiday season, and I am sending you all my love and be
 
 ## Dec 15 2021
 
-# Update 7: Overdue update
+### Update 7: Overdue update
 
 
 Apologies for missing my normal schedule! Unfortunately the delay is not due to me being out of internet yet, as we are still in McMurdo. There is a saying here that Antarctica is "a harsh continent" and we've particularly been feeling that this week. In addition to the record setting weather delays we've been experiencing for opening the WAIS Divide camp this year, a staffing shortage has led to a 3 week delay in the largest on-continent planes (LC-130s, ski outfitted C-130s, very cool planes) arriving. These planes are critical for ferrying cargo, people, and importantly more fuel to the WAIS Divide camp that is the main hub for science in Western Antarctica. The combination of these 2 factors has had a significant impact on the entire program in Western Antarctica, the full scope of which was becoming obvious writing on the wall right after my last update, and was formalized to us on Tuesday. 
@@ -370,7 +370,7 @@ Paul
 
 ## Jan 12 2022
 
-# Update 8:
+### Update 8:
 
 
 Hello from McMurdo again! 
