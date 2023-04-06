@@ -16,17 +16,18 @@ Hello Everyone!
 
 I'm excited to say that everything seems to have fallen into place and I'll be headed to Antarctica this winter! I wanted to let you all know my timeline in case you are curious and mention how to get in contact with me if you'd like.
 
-Quarantine in SF Oct 5-10 with internet/cell coverage.
-Quarantine in NZ Oct 10-Oct 25(ish) with internet/cell coverage (but long distance fees)
-McMurdo base Oct 26(ish)-Nov 20(ish)  with extremely limited internet, no cell coverage.
-Deep Field Nov 21(ish) - Jan 26th(ish) with no internet, no cell coverage.
-McMurdo base Jan 27th - Feb 1(ish) with extremely limited internet, no cell coverage.
-NZ-SFO homeward bound Feb 1(ish) - Feb 14(ish) with internet/cell coverage.
+Quarantine in SF Oct 5-10 with internet/cell coverage.  
+Quarantine in NZ Oct 10-Oct 25(ish) with internet/cell coverage (but long distance fees)  
+McMurdo base Oct 26(ish)-Nov 20(ish)  with extremely limited internet, no cell coverage.  
+Deep Field Nov 21(ish) - Jan 26th(ish) with no internet, no cell coverage.  
+McMurdo base Jan 27th - Feb 1(ish) with extremely limited internet, no cell coverage.  
+NZ-SFO homeward bound Feb 1(ish) - Feb 14(ish) with internet/cell coverage.  
 
 I'll try to send some email updates if you're curious to follow me around. I'll try not to be too spammy I promise. In SF/NZ I will have normal internet access and can ZOOM/Skype/email/etc. In McMurdo I will only be able to do text only emails, and my access to the internet is limited to certain hours of the day. 
 
 When I'm out of internet coverage, I will update my InReach device periodically, which you can see here:
-[broken link]
+
+[broken link]  
 [pw]
 
 If you go there now you'll see updates from my other trips, but you'll start to see updates from Antarctica soon enough. You should be able to send me text only messages here as well if you'd like, but please don't do so until late november as I won't be checking my InReach until then. If you send me a message remember to sign-off with your name, my InReach doesn't have contact cards and I don't want to mix you up! Also in Antarctica we run on NZ time, so my messages may come at odd times. 
@@ -45,11 +46,11 @@ I'll miss you all this winter, and I'll definitely be thinking of you all as I c
 A fun update, you can send me mail! You can address letters/postcards (probably not packages) to:
 
 
-[Participant's Name]
-Grantee, C-446
-PSC 769 Box 700
-APO AP 96599-9998
-Regular postage is fine. It goes through military mail.
+[Participant's Name]  
+Grantee, C-446  
+PSC 769 Box 700  
+APO AP 96599-9998  
+Regular postage is fine. It goes through military mail.  
 
 I think it'll probably take about a month to get down there, and from a friend's experience it seems like a fair amount of letters go missing, so maybe take a photo before sending it if you want to be sure I see what you wrote!
 
@@ -98,11 +99,11 @@ Love you!
 Things are starting to ramp up here, we are about 1.5 weeks away from our scheduled flights out, so we are beginning to pack and send away our largest pieces of cargo. It's a little astounding how much stuff we are bringing, but I guess it makes sense given where we're going.
 
 Some particularly noteworthy items:
-	
-	We use bamboo as tent stakes in the snow, we are bringing 80 pounds of bamboo for this purpose. 
-	Our kitchen tent comes in 2 large bags, and weighs over 100 pounds.
-	My sleeping bag (rated to -80F or so) wouldn't fit in my largest backpacking pack. I keep it in a 120L duffel bag with my sleeping pads.
-	We are bringing over 300 packets of hot chocolate and cider. I'm excited for this.
+
+- We use bamboo as tent stakes in the snow, we are bringing 80 pounds of bamboo for this purpose. 
+- Our kitchen tent comes in 2 large bags, and weighs over 100 pounds.
+- My sleeping bag (rated to -80F or so) wouldn't fit in my largest backpacking pack. I keep it in a 120L duffel bag with my sleeping pads.
+- We are bringing over 300 packets of hot chocolate and cider. I'm excited for this.
 
 
 An exciting event of last weekend though is that we did our "Shake Down" camping trip where we drive just outside McMurdo and pitch our tents as a test of the equipment and as a practice for how use it. I've thrown in a few photos from that below, including the crevasse rescue training we did after, it was very fun! I'm learning that Antarctica is really just like any other cold place you've been, just more so. The most notable change was how hard it is to get your temperature just right. The difference between being comfortable standing still and not overheating while walking is sometimes 2 jackets and a pair of over gloves. This means often finding myself sweating just from the exertion of something as small as unpacking my sleeping bag or staking out a tent. Unfortunately sweating means you get really cold really fast from the strong winds and difficulty to dry items here, so I will need to be more careful about adjusting layers before changing my activity level.
