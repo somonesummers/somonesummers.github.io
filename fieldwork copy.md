@@ -31,8 +31,7 @@ Brief Blurb, more and photos here
   </div>
 </div>
 
-### Teaching Assistant for Near Surface Geophysics: Imaging Groundwater Systems 
-Brief Blurb, more and photos here
+
 
 <ul class="actions">
 	<li><a href="{{ 'coyoteValley.html' | absolute_url }}" class="button">More</a></li>
