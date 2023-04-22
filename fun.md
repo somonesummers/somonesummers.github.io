@@ -4,10 +4,8 @@ title: Personal Interests
 image: assets/images/cathedralSunsetCrop.jpg
 ---
 
-Personal Interests page is under construction.
-
 ### Running, Biking, and Other Long Activities 
-Brief Blurb, more and photos here
+Since about 14 I've always had some endurance hobby keeping me busy and sane. Recently it's been more running/jogging/shuffling. 
 
 <ul class="actions">
 	<li><a href="{{ 'endurance.html' | absolute_url }}" class="button">More</a></li>
@@ -15,7 +13,7 @@ Brief Blurb, more and photos here
 
 
 ### Climbing, Skiing, and Other Outdoor Activities 
-Brief Blurb, more and photos here
+I also enjoy more technical outdoor activities, mostly as a way to explore even more places in the mountains.
 
 <ul class="actions">
 	<li><a href="{{ 'outdoor.html' | absolute_url }}" class="button">More</a></li>
@@ -24,7 +22,7 @@ Brief Blurb, more and photos here
 
 
 ### Sewing, Ceramics, and Other Creative Hobbies
-Brief Blurb, more and photos here
+Everyone needs a few indoor hobbies as well, and I use this time to express my more creative side making packs, bags, mugs and editing photos.
 
 <ul class="actions">
 	<li><a href="{{ 'creative.html' | absolute_url }}" class="button">More</a></li>
