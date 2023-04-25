@@ -133,6 +133,7 @@ Paul
 
 p.s. photos and descriptions below
 
+Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. We use all the guy lines, many tied to flags because we have lots of flags. We save the bamboo stakes (without flags) for sleep tents primarily as the flags are noisy in the wind. Down the line (away from the camera) is one Scott tent, a survival trench (for demo only, we all slept in tents) then 3 mountain tents. The prevailing wind is coming from the right side of this photo, though it was thankfully not very windy which is why the flags are calm. Mt Erebus, the 2nd most active volcano in the world, can be seen in the background!
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -140,7 +141,7 @@ p.s. photos and descriptions below
   </div>
 </div>
 
-Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. We use all the guy lines, many tied to flags because we have lots of flags. We save the bamboo stakes (without flags) for sleep tents primarily as the flags are noisy in the wind. Down the line (away from the camera) is one Scott tent, a survival trench (for demo only, we all slept in tents) then 3 mountain tents. The prevailing wind is coming from the right side of this photo, though it was thankfully not very windy which is why the flags are calm. Mt Erebus, the 2nd most active volcano in the world, can be seen in the background!
+Sorry these are out of order here, but this is the car that brought some of our stuff our to the camp as well! It was very cute, but unfortunately we didn't ride in it. This was loading up at MCM before we went out. It's called a Hagglund, and they can even float at crawl through open water if the cabins are sealed well enough.
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -148,7 +149,7 @@ Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. 
   </div>
 </div>
 
-Sorry these are out of order here, but this is the car that brought some of our stuff our to the camp as well! It was very cute, but unfortunately we didn't ride in it. This was loading up at MCM before we went out. It's called a Hagglund, and they can even float at crawl through open water if the cabins are sealed well enough.
+Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulating, soft hand feel synthetic fabric, not far off a mid layer, but thinner and more durable. The lining is white, the fly is yellow typical fly material. The chairs and tables are borrowed from a nearby hut. We will have some in the field, but probably a different style
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -156,7 +157,7 @@ Sorry these are out of order here, but this is the car that brought some of our 
   </div>
 </div>
 
-Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulating, soft hand feel synthetic fabric, not far off a mid layer, but thinner and more durable. The lining is white, the fly is yellow typical fly material. The chairs and tables are borrowed from a nearby hut. We will have some in the field, but probably a different style
+Me all bundled up ready to sleep! I ended up taking lots of this off after I warmed up, the big sleeping bags take a bit to warm up, but then are very very warm. I was in a mountain tent, but may try to swap to a Scott tent in the field, as I can stand up in a scott tent but not a mountain tent. I like standing.  
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -164,7 +165,7 @@ Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulati
   </div>
 </div>
 
-Me all bundled up ready to sleep! I ended up taking lots of this off after I warmed up, the big sleeping bags take a bit to warm up, but then are very very warm. I was in a mountain tent, but may try to swap to a Scott tent in the field, as I can stand up in a scott tent but not a mountain tent. I like standing.  
+View of the room! A little tight b/c the sleeping bags are so big, and I think the pitching of this tent was a little sloppy which made it shorter too. It was the first we set up, and I'm glad we practiced for next time! I am diagonal to get the most length out of the pads, but I fit in the tent just fine. 
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -172,7 +173,7 @@ Me all bundled up ready to sleep! I ended up taking lots of this off after I war
   </div>
 </div>
 
-View of the room! A little tight b/c the sleeping bags are so big, and I think the pitching of this tent was a little sloppy which made it shorter too. It was the first we set up, and I'm glad we practiced for next time! I am diagonal to get the most length out of the pads, but I fit in the tent just fine. 
+The crevasse simulator! A bulldozer made this big hole, its quite deep. We would walk around into the bottom then be pulled up, it was good to practice clearing the edge, and getting someone over the edge.
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -180,7 +181,7 @@ View of the room! A little tight b/c the sleeping bags are so big, and I think t
   </div>
 </div>
 
-The crevasse simulator! A bulldozer made this big hole, its quite deep. We would walk around into the bottom then be pulled up, it was good to practice clearing the edge, and getting someone over the edge.
+Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, since we'll be doing mostly snowmobile travel in crevasse areas
 
 <div class="box alt">
   <div class="row 50% uniform">
@@ -188,7 +189,6 @@ The crevasse simulator! A bulldozer made this big hole, its quite deep. We would
   </div>
 </div>
 
-Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, since we'll be doing mostly snowmobile travel in crevasse areas
 
 ## November 14 2021
 
