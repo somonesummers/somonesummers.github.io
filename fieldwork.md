@@ -32,7 +32,8 @@ Brief Blurb, more and photos here
 </div>
 
 ### Teaching Assistant for Near Surface Geophysics: Imaging Groundwater Systems 
-Brief Blurb, more and photos here
+
+In the Spring of 2022 I was co-TA with Javier Peralta for Professor Rosemary Knight's Geophysics 190 course. We worked with the Santa Clara Open Space Authority to image the ground water system at Coyote Valley Open Space, San Jose California using seismic, electric resistivity tomography (ERT), and towed transient electromagnetic (T-TEM) methods. This was a 'Cardinal Course' that involved 11 undergraduates doing hands on field research with all the above geophysical methods. 
 
 <ul class="actions">
 	<li><a href="{{ 'coyoteValley.html' | absolute_url }}" class="button">More</a></li>
