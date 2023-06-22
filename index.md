@@ -65,9 +65,9 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
+      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/JGR1.jpg" alt="" /></a>
       <h3>Research</h3>
-      <p>Place holder for research</p>
+      <p>Research projects I'm currently working on, as well as some past projects</p>
       <ul class="actions">
 	<li><a href="{{ 'research.html' | absolute_url}}" class="button">More</a></li>
       </ul>
@@ -83,15 +83,15 @@ layout: default
     <article>
       <a href="{{ 'fieldwork.html' | absolute_url }}" class="image"><img src="assets/images/paulMcmShelf.jpg" alt="" /></a>
       <h3>Field Work</h3>
-      <p>Place holder </p>
+      <p>Even as primarily a model based researcher, I've had the great pleasure to do some field based research!</p>
       <ul class="actions">
 	<li><a href="{{ 'fieldwork.html' | absolute_url }}" class="button">More</a></li>
       </ul>
     </article>
     <article>
-      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="" /></a>
+      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/fun.jpg" alt="" /></a>
       <h3>Fun</h3>
-      <p>Place holder</p>
+      <p>What I like to do when I'm not working </p>
       <ul class="actions">
 	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">More</a></li>
       </ul>
