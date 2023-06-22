@@ -7,7 +7,7 @@ title: Publications
 **Summers, P.T.**; Elseworth, C.W.; Dow, C.F.; Suckale, J. 
 "Migration of the Shear Margins at Thwaites Glacier: Dependence on Basal Conditions and Testability Against Field Data," _Journal of Geophysical Research: Earth Surface_, 2023, [doi.org/10.1029/2022JF006958](https://doi.org/10.1029/2022JF006958) 
 
-Siegfried, M.; Venturelli, R; Patterson, M; Arnuk, W.; Campbell, T.; Gustafson, C.; Michaud, A.; Galton-Fenzi, B.; Hausner, M.; Holzschuh, S.; Huber, B.; Mankoff, K.; Schroeder, D.; **{\bfseries **Summers, P. T.**; Tyler, S.; Carter, S.; Fricker, H.; Harwood, D.; Leventer, A.; Rosenheim, B.; Skidmore, M.; Priscu, J. and SALSA Science Team. "The life and death of a subglacial lake in West Antarctica," _Geology_ , 2023, [doi.org/10.1130/G50995.1](https://doi.org/10.1130/G50995.1) 
+Siegfried, M.; Venturelli, R; Patterson, M; Arnuk, W.; Campbell, T.; Gustafson, C.; Michaud, A.; Galton-Fenzi, B.; Hausner, M.; Holzschuh, S.; Huber, B.; Mankoff, K.; Schroeder, D.; **Summers, P. T.**; Tyler, S.; Carter, S.; Fricker, H.; Harwood, D.; Leventer, A.; Rosenheim, B.; Skidmore, M.; Priscu, J. and SALSA Science Team. "The life and death of a subglacial lake in West Antarctica," _Geology_ , 2023, [doi.org/10.1130/G50995.1](https://doi.org/10.1130/G50995.1) 
 
 Bienert, N.; Schroeder D. M.; **Summers, P.T.**
 "Bistatic Radar Tomography of Shear Margins: Simulated Temperature and Basal Material Inversions," _IEEE Transactions on Geoscience and Remote Sensing_, 2022, [doi.org/10.1109/TGRS.2022.3213047](https://doi.org/10.1109/TGRS.2022.3213047) 
