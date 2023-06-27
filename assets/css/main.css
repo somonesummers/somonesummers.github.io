@@ -2077,7 +2077,7 @@ accent purple:  RGB: 127, 86, 197
 /* Type */
 
 	body, input, select, textarea {
-		color: #7f888f;
+		color: #5E666C;
 		font-family: "Open Sans", sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
@@ -2424,7 +2424,7 @@ accent purple:  RGB: 127, 86, 197
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #7f888f;
+			color: #5E666C;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -3562,7 +3562,7 @@ accent purple:  RGB: 127, 86, 197
 			-webkit-transform: scaleX(-1);
 			-ms-transform: scaleX(-1);
 			transform: scaleX(-1);
-			color: #7f888f;
+			color: #5E666C;
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -3772,7 +3772,7 @@ accent purple:  RGB: 127, 86, 197
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: #5E666C;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
