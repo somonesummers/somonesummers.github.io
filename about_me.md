@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About Me
-image: assets/images/henryCoeCrop.jpg
+image: ![Oak Tree at Henry Coe State Park](assets/images/henryCoeCrop.jpg)
 ---
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="3u"><span class="image fit"><img src="assets/images/michellePaul.jpg" alt="" /></span></div>
-    <div class="5u"><span class="image fit"><img src="assets/images/paulMcmShelf.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/conePeak1.jpg" alt="" /></span></div>
+    <div class="3u"><span class="image fit"><img src="assets/images/michellePaul.jpg" alt="Paul at 4 years old with sister" /></span></div>
+    <div class="5u"><span class="image fit"><img src="assets/images/paulMcmShelf.jpg" alt="Paul using a radar system on McMurdo Ice Shelf" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/conePeak1.jpg" alt="Paul sitting in a wheelbarrow overlooking an ocean view" /></span></div>
   </div>
 </div>
 

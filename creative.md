@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creative Hobbies
-image: assets/images/tent.jpg
+image: ![Pyramid tent with Half Dome in the distance](assets/images/tent.jpg)
 ---
 
 I enjoy expressing my creativity in hobbies that exist at the intersection of structured process and personal customization. I especially enjoy creating objects that I can use to fill the world around me from my morning mug of coffee, the backpack I bring to work, and the images I use as my screensaver on my computer. 
@@ -10,9 +10,9 @@ I enjoy expressing my creativity in hobbies that exist at the intersection of st
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/photos1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/photos2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/photos3.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/photos1.jpg" alt="View looking down from a rocky peak" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/photos2.jpg" alt="Close up photo of a cactus" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/photos3.jpg" alt="A man a top a snowy peak gazes at a snowy peak in the distance" /></span></div>
   </div>
 </div>
 
@@ -22,9 +22,9 @@ I started taking photos when I got my first DSLR in my senior year of high schoo
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="3u"><span class="image fit"><img src="assets/images/ceramics1.jpg" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="assets/images/ceramics2.jpg" alt="" /></span></div>
-    <div class="3u$"><span class="image fit"><img src="assets/images/ceramics3.jpg" alt="" /></span></div>
+    <div class="3u"><span class="image fit"><img src="assets/images/ceramics1.jpg" alt="Ceramic mugs left to dry after throwing on the wheel" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/ceramics2.jpg" alt="A finished ceramic tea set" /></span></div>
+    <div class="3u$"><span class="image fit"><img src="assets/images/ceramics3.jpg" alt="Paul Summers and bisque fired mugs waiting to be glazed" /></span></div>
   </div>
 </div>
 
@@ -33,9 +33,9 @@ I took my first ceramics sculpture course at the Palo Alto Junior Museum when I 
 ### Sewing
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/sewing1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/sewing2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/sewing3.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/sewing1.jpg" alt="Sewing pattern layed out on fabric about to be cut" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/sewing2.jpg" alt="Paul Summers modeling a finished sweater" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/sewing3.jpg" alt="A finished backpack" /></span></div>
   </div>
 </div>
 

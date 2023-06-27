@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Endurance Sports
-image: assets/images/r2r2rCrop.jpg
+image: ![Paul in the Grand Canyon](assets/images/r2r2rCrop.jpg)
 ---
 
 ### High School Track and Cross Country Running
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="3u"><span class="image fit"><img src="assets/images/gunn1.jpg" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="assets/images/gunn2.jpg" alt="" /></span></div>
-    <div class="3u$"><span class="image fit"><img src="assets/images/gunn3.jpg" alt="" /></span></div>
+    <div class="3u"><span class="image fit"><img src="assets/images/gunn1.jpg" alt="Paul running track in high school" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/gunn2.jpg" alt="Friends from high school cross country " /></span></div>
+    <div class="3u$"><span class="image fit"><img src="assets/images/gunn3.jpg" alt="Paul running cross country in high school" /></span></div>
   </div>
 </div>
 
@@ -25,9 +25,9 @@ I was recruited for the Stanford Cross Country as a red shirt freshman, I never 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/cycling2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/cycling3.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/cycling1.jpg" alt="Paul cycling in a criterium race" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/cycling2.jpg" alt="Paul covered in mud with a mountain bike" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/cycling3.jpg" alt="Cycling friends after a ride" /></span></div>
   </div>
 </div>
 
@@ -40,9 +40,9 @@ I again found a strong community on the cycling team, and have stayed close to m
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/longRun1.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/longRun2.jpg" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/longRun3.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/longRun1.jpg" alt="Runners on a trail over looking the ocean" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/longRun2.jpg" alt="Paul sitting in a wheelbarrow overlooking an ocean view" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/longRun3.jpg" alt="Runners on a snow covered ice shelf in Antarctica" /></span></div>
   </div>
 </div>
 
