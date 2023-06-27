@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Research	
+image: assets/images/filmDigCrop.jpg
+alt: Paul digs a small hole on McMurdo Ice Shelf
 ---
 
 ## Stanford University Geophysics PhD 2018-Current

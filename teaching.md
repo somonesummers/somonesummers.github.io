@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Teaching
+image: assets/images/jtree1Crop.jpg
+alt: Paul demonstrating how to use a repell extension for a class
 ---
 
 
