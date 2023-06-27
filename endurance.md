@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Endurance Sports
-image: ![Paul in the Grand Canyon](assets/images/r2r2rCrop.jpg)
+image: assets/images/r2r2rCrop.jpg
+alt: Paul in the Grand Canyon
 ---
 
 ### High School Track and Cross Country Running

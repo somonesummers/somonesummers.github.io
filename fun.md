@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Personal Interests	
-image: ![Cathedral Peak at Sunset](assets/images/cathedralSunsetCrop.jpg)
+image: assets/images/cathedralSunsetCrop.jpg
+alt: Cathedral Peak at Sunset
 ---
 
 ### Running, Biking, and Other Long Activities 

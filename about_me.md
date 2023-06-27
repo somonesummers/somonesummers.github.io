@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Me
-image: ![Oak Tree at Henry Coe State Park](assets/images/henryCoeCrop.jpg)
+image: assets/images/henryCoeCrop.jpg
+alt: Oak Tree at Henry Coe State Park
 ---
 
 <div class="box alt">

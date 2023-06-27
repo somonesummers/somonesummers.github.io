@@ -2,6 +2,7 @@
 layout: page
 title: Personal Blog from TIME 2021-2022
 image: assets/images/mcmMarathonCrop.jpg
+alt: Runners on the McMurdo Ice Shelf
 ---
 
 ### Digital Diary from Antarctica 2021-2022

@@ -2,6 +2,7 @@
 layout: page
 title: Fieldwork
 image: assets/images/paulMcmShelfCrop.jpg
+alt: 
 ---
 
 ## Joshua Tree National Park March 2023 

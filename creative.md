@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Creative Hobbies
-image: ![Pyramid tent with Half Dome in the distance](assets/images/tent.jpg)
+image: assets/images/tent.jpg
+alt: Pyramid tent with Half Dome in the distance
 ---
 
 I enjoy expressing my creativity in hobbies that exist at the intersection of structured process and personal customization. I especially enjoy creating objects that I can use to fill the world around me from my morning mug of coffee, the backpack I bring to work, and the images I use as my screensaver on my computer. 

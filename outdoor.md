@@ -2,6 +2,7 @@
 layout: page
 title: Outdoor Activities
 image: assets/images/rainier.jpg
+alt: View from Mt Rainier looking south
 ---
 
 ### Scouting 
