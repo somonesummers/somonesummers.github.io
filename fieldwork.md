@@ -2,6 +2,7 @@
 layout: page
 title: Fieldwork
 image: assets/images/paulMcmShelfCrop.jpg
+alt: Paul using a radar system on McMurdo Ice Shelf
 ---
 
 ## Joshua Tree National Park March 2023 

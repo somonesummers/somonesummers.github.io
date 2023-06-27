@@ -81,7 +81,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'fieldwork.html' | absolute_url }}" class="image"><img src="assets/images/paulMcmShelf.jpg" alt="Paul Summers using a radar system on McMurdo Ice Shelf" /></a>
+      <a href="{{ 'fieldwork.html' | absolute_url }}" class="image"><img src="assets/images/paulMcmShelf.jpg" alt="Paul using a radar system on McMurdo Ice Shelf" /></a>
       <h3>Fieldwork</h3>
       <p>Even as primarily a model based researcher, I've had the great pleasure to do some field based research!</p>
       <ul class="actions">
@@ -89,7 +89,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/fun.jpg" alt="Paul Summers making a funny face" /></a>
+      <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/fun.jpg" alt="Paul making a funny face" /></a>
       <h3>Fun</h3>
       <p>What I like to do when I'm not working </p>
       <ul class="actions">
