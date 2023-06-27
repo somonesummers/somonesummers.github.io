@@ -57,7 +57,7 @@ layout: default
       </ul>
     </article>
         <article>
-      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/trees.jpg" alt="Fog floating about a redwood forest" /></a>
+      <a href="{{ 'teaching.html' | absolute_url }}" class="image"><img src="assets/images/jtree1.jpg" alt="Paul demonstrating how to use a repell extension for a class" /></a>
       <h3>Teaching</h3>
       <p>My teaching experiences, both in traditional academic settings and outdoor education</p>
       <ul class="actions">
