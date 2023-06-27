@@ -20,13 +20,13 @@ This work is published in the [Journal of Geophysical Research: Earth Surface wi
 I worked with Matt Siegfried and Ryan Venturelli (lead authors) on the investigation of Mercer Subglacial Lake. I processes radar data from the field site to constrain the change in ice thickness above the lake over the study period. 
 This work is published in the [Journal Geology.](https://doi.org/10.1130/G50995.1)
 
-## Bistatic Radar Tomography of Shear Margins
+### Bistatic Radar Tomography of Shear Margins
 I worked with Nicole Bienert (lead author) on developing a bi-static radar system for imaging englacial temperature signatures of shear margins. I helped develop the inversion scheme used to simultaneously invert for basal reflectivity and englacial temperature, and also provided modeled theoretical englacial temperature distributions for plausible antarctic shear margins. 
 This work is published in [IEEE Transactions on Geoscience and Remote Sensing.(doi.org/10.1109/TGRS.2022.3213047)
 
-## Constraining Ice Sheet Basal Sliding and Horizontal Velocity Profiles Using a Stationary Phase Sensitive Radar Sounder
+### Constraining Ice Sheet Basal Sliding and Horizontal Velocity Profiles Using a Stationary Phase Sensitive Radar Sounder
 I developed an algorithm for constraining the 2D velocity field of an ice sheet using a stationary phase sensitive radar sounder. This work applies most directly to ApRES deployments on rapidly deforming ice streams where englacial layer slopes can be inferred from other radar processing methods. 
-This work is published in [the IEEE International Geoscience and Remote Sensing Symposium, 2021.](doi.org/10.1109/IGARSS47720.2021.9554535)
+This work is published in [the IEEE International Geoscience and Remote Sensing Symposium, 2021.](https://doi.org/10.1109/IGARSS47720.2021.9554535)
 
 ## Stanford University Physics BS, Geophysics MS 2010-2014 
 
