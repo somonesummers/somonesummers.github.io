@@ -16,7 +16,7 @@ alt: Paul using a radar system on McMurdo Ice Shelf
 </div>
 
 ### Outdoor Educator Apprentice for Rock Climbing: Intermediate Anchors 
-Brief Blurb, more and photos here
+During Spring Break 2023, I was an Outdoor Educator Apprentice for a 7 day climbing class in Joshua Tree National Park. We taught a class a 6 students the basics of trad gear placement and anchor construction, as well as proper belaying and repelling for a variety of single pitch scenarios. 
 
 ## Coyote Valley, California May 2022 
 
