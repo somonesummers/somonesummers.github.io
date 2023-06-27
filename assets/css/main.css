@@ -4048,7 +4048,7 @@ accent purple:  RGB: 127, 86, 197
 	}
 
 		#menu > ul > li > ul {
-			color: #9fa3a6;
+/*			color: #9fa3a6;*/
 			display: none;
 			margin: 0.5em 0 1.5em 0;
 			padding-left: 1em;
