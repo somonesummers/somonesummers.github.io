@@ -90,10 +90,10 @@ layout: default
     </article>
     <article>
       <a href="{{ 'fun.html' | absolute_url }}" class="image"><img src="assets/images/fun.jpg" alt="Paul making a funny face" /></a>
-      <h3>Fun</h3>
+      <h3>Personal Interests</h3>
       <p>What I like to do outside of work </p>
       <ul class="actions">
-	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">Fun</a></li>
+	<li><a href="{{ 'fun.html' | absolute_url }}" class="button">Personal Interests</a></li>
       </ul>
     </article>
   </div>
