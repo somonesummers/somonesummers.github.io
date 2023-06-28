@@ -14,6 +14,8 @@ Apprentice for a 3 part rock rescue clinic series. Instructed skills for hauling
 ### Instructor Apprentice for OUTDOOR 115 Spring 2023
 Apprentice for a 7 day field based trad anchors rock climbing course. Assisted in site and student management as well as skills instruction throughout the course. I was lead instructor for the repelling skills lecture and practice session. 
 
+### Preparing Future Professors Mentee Winter 2023
+Shadowed a calculus based physics mechanics course at West Valley Community College. Shadowed weekly labs and lectures for an entire quarter. Instructed 1 lecture on forces for the class of 20 students.
 
 ### Teaching Assistant for GEOPHYS 190 Spring 2022
 Designed and graded homework assignments, coordinated fieldwork for Near-Surface Geophysics course applied to imaging groundwater systems at Coyote Valley, California. Designed and lead lectures on geologic background of site, and ERT modeling software. 

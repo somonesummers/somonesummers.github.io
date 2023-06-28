@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-<p>This is a copy of my CV as of November 2021.</p>
+<p>This is a copy of my CV as of June 2023.</p>
 
 <object data="assets/documents/PSUMMERS_CV.pdf" type="application/pdf" width="100%" height="1000">
   
