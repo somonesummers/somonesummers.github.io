@@ -46,7 +46,7 @@ alt: Sunset over Tuolumne Meadows
           <div class="article col col-4 col-d-6 col-t-12">
             <div class="article__inner">
               <div class="article__head">
-                <a class="article__image" href="/tripReports/SouthernSpelunking.html">
+                <a class="article__image" href="/tripReports/PearLake2020.html">
                   <picture>
                     <source srcset="assets/images/pearLake7Icon.jpg" type="image/jpg">
                     <img src="assets/images/pearLake7Icon.jpg" alt=" 4 people on skis pose for a picture on a mountain ridgeline">
@@ -55,7 +55,7 @@ alt: Sunset over Tuolumne Meadows
               </div>
               <div class="article__content">
                 <h2 class="article__title">
-                  <a href="/tripReports/PearLake2020.html">Pear Lake 2021</a>
+                  <a href="/tripReports/PearLake2020.html">Pear Lake 2020</a>
                 </h2>
                 <p class="article__excerpt">Peerless Pear Lake</p>
               </div>

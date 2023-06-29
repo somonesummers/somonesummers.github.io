@@ -8,7 +8,9 @@ alt: 4 people on skis pose for a picture on a mountain ridgeline
 ## Peerless Pear Lake
 
 Jonathan Ho, Anna Broome, Catherine Rocchi, Paul Summers
+
 Location: Pear Lake, CA
+
 Date: Jan 16-19 2020
 
 	
@@ -24,4 +26,15 @@ The following day, we were treated to a lovely long tour through the tablelands 
 
 Sunday sadly marked our last day, and we skied out that morning. The net downhill route to the car proved far trickier with a pulk, and I rolled the sled more than a few times! I was happy to have the support of my friends to help pick up the pieces after the larger mishaps. Once we made it back to the cars around noon, it was an easy drive back to campus. The only hiccup was the all concerned messages I’d missed from my family after being AWOL all weekend, remember to leave a trip plan with your mom!  
 
-
+<div class="row">
+  <div class="column">
+  <img src="../assets/images/pearLake1.jpg" style="max-height:400px" alt="skis sitting on the snow">
+  <img src="../assets/images/pearLake2.jpg" style="max-height:400px" alt="People eating dinner in Pear Lake Hut">
+  <img src="../assets/images/pearLake3.jpg" style="max-height:400px" alt="Sunset with 2 pine trees">
+  <img src="../assets/images/pearLake4.jpg" style="max-height:400px" alt="Snow covered pear lake hut">
+  <img src="../assets/images/pearLake5.jpg" style="max-height:400px" alt="A person cooks bacon in the hut">
+  <img src="../assets/images/pearLake6.jpg" style="max-height:400px" alt="Two skiers climb away from the hut">
+  <img src="../assets/images/pearLake7.jpg" style="max-height:400px" alt="The group poses for a photo on the ridgeline">
+  <img src="../assets/images/pearLake8.jpg" style="max-height:400px" alt="People listen to a guitar in the hut">
+  </div>
+</div>
