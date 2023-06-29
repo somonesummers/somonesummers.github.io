@@ -135,59 +135,53 @@ Paul
 p.s. photos and descriptions below
 
 <!-- these let the photos be inline with text -->
-<span class="image right"><img src="assets/images/image7.jpg" alt="Yellow tents pitched on an ice shelf with a volcano in the background on a clear day" /></span>
+<span class="image right wide"><img src="assets/images/image7.jpg" alt="Yellow tents pitched on an ice shelf with a volcano in the background on a clear day" /></span>
 
 Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. We use all the guy lines, many tied to flags because we have lots of flags. We save the bamboo stakes (without flags) for sleep tents primarily as the flags are noisy in the wind. Down the line (away from the camera) is one Scott tent, a survival trench (for demo only, we all slept in tents) then 3 mountain tents. The prevailing wind is coming from the right side of this photo, though it was thankfully not very windy which is why the flags are calm. Mt Erebus, the 2nd most active volcano in the world, can be seen in the background!
 
 <!-- this provides vertical page breaks so photos don't nest into each other -->
 <div class="box alt"><div class="row 50% uniform"></div></div>
 
-<span class="image right wide"><img src="assets/images/image43.jpg" alt="Bags piled next to a 2 cab Hagglung tracked vehicle on a dirt road in McMurdo" /></span>
+<span class="image left wide"><img src="assets/images/image43.jpg" alt="Bags piled next to a 2 cab Hagglung tracked vehicle on a dirt road in McMurdo" /></span>
 
 Sorry these are out of order here, but this is the car that brought some of our stuff our to the camp as well! It was very cute, but unfortunately we didn't ride in it. This was loading up at MCM before we went out. It's called a Hagglund, and they can even float at crawl through open water if the cabins are sealed well enough.
 
 <div class="box alt"><div class="row 50% uniform"></div></div>
 
-<span class="image left wide"><img src="assets/images/image46.jpg" alt="Three people standing inside the ktichen tent" /></span>
+<span class="image right wide"><img src="assets/images/image46.jpg" alt="Three people standing inside the ktichen tent" /></span>
 
 Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulating, soft hand feel synthetic fabric, not far off a mid layer, but thinner and more durable. The lining is white, the fly is yellow typical fly material. The chairs and tables are borrowed from a nearby hut. We will have some in the field, but probably a different style
 
+<!-- this provides vertical page breaks so photos don't nest into each other -->
 <div class="box alt"><div class="row 50% uniform"></div></div>
 
-<span class="image right wide"><img src="assets/images/image34.jpg" alt="Paul wearing a fleece cap and face coving in a sleeping bag" /></span>
+<span class="image left wide"><img src="assets/images/image34.jpg" alt="Paul wearing a fleece cap and face coving in a sleeping bag" /></span>
 
 Me all bundled up ready to sleep! I ended up taking lots of this off after I warmed up, the big sleeping bags take a bit to warm up, but then are very very warm. I was in a mountain tent, but may try to swap to a Scott tent in the field, as I can stand up in a scott tent but not a mountain tent. I like standing.  
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image34.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image42.jpg" alt="View of the inside of a mountain tent. A sleeping bag is in the center with bags and clothing surrounding" /></span>
 
 View of the room! A little tight b/c the sleeping bags are so big, and I think the pitching of this tent was a little sloppy which made it shorter too. It was the first we set up, and I'm glad we practiced for next time! I am diagonal to get the most length out of the pads, but I fit in the tent just fine. 
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image42.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image left wide"><img src="assets/images/image13.jpg" alt="A group of people standing at the edge of an exevated ditch used to simulate a crevasse" /></span>
 
 The crevasse simulator! A bulldozer made this big hole, its quite deep. We would walk around into the bottom then be pulled up, it was good to practice clearing the edge, and getting someone over the edge.
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image13.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image23.jpg" alt="Mike stands next to the back of a snowmobile with a rescue anchor attached to it" /></span>
 
 Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, since we'll be doing mostly snowmobile travel in crevasse areas
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image23.jpg" alt="" /></span></div>
-  </div>
-</div>
-
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
 
 ## November 14 2021
 
@@ -196,80 +190,74 @@ Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, 
 
 Its been a busy week this week, but there were definitely a few particularly photogenic moments. We had our second day of glacier training, which involved learning to drive snow mobiles (called ski-doos here), driving ski-doos while tied together incase one falls in, and importantly practice walking around known crevasses. Between you me and the fence post, we did this largely for the practice driving ski-doos to get here, but the walking in the crevasse was a wonderful cherry on top for the day! We will not encounter any crevasses like this in our field research. This feature is known as the IMAX crevasse for reasons that will later be apparent. 
 
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image15.jpg" alt="A person walks down into a ice cave" /></span>
 
 We drove out to this site, it was about a 1 hour drive on ski-doos, 1 person per skidoo. We then transitioned to walking and looped around to this smaller entry section of a large and visible crevasse. This is right at a massive convex rollover where the slope transitions from about 10 deg slope to 30 deg slope below. Mike (a mountain guide( was leading, Danny (another PhD student) is the middle of our rope, me last.
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image15.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image left wide"><img src="assets/images/image36.jpg" alt="2 people stand in an ice cave covered in snow" /></span>
+
 
 Inside the first step down
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image36.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image50.jpg" alt="2 people stand on a ramp going down into a deep ice crevasse" /></span>
 
 After one more step, we came to this steep ramp looking father down, probably about 100 ft deep at this point, and running about 200-300 ft out in front of us until the crevasse closed up.
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image50.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image left wide"><img src="assets/images/image33.jpg" alt="2 people stand on the bottom of a ramp going down into a deep ice crevasse" /></span>
 
 Closer to the bottom, we couldn't get all the way down due to a 10ft ice cliff at the very bottom. This is as far as we went.
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image38.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image38.jpg" alt="Paul taking a selfie with the crevasse" /></span>
 
 Working on my selfies
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image33.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image left wide"><img src="assets/images/image40.jpg" alt="3 people stand beneath a sky light in the ice cave" /></span>
 
 Another view up to the ramp in a better view, this skylight is not how we came in, but did provide lots of light
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image40.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image66.jpg" alt="A person stands next to 3 tables full of packaged food" /></span>
 
 After a day like that we all came back pretty excited to say the least! Otherwise the rest of the training went well, and we finished our final training, so we could begin some practice science days on the ice shelf here. Our first day had a few hiccups, but we have more days this coming week which I'm nervous but excited for. But before our science day, we did had one more final task: picking up, sorting, packing, and submitting ALL of our food to the cargo team. This is 3 full tables of food for us, ideally it will feed us 6 for 2 months, and includes (among other things) 100s of chocolate bars, an insane amount of pad thai noodles, and 10kgs of coffee. 
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image66.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image left wide"><img src="assets/images/image55.jpg" alt="3 pallets of boxed food ready for shipping" /></span>
 
 It took all 6 of us about 6 hours to sort, itemize and pack this all into these boxes that will be easy to find while we are looking for the last bottle of ketchup in the middle of a blizzard (a majority of food will be stored outside in these boxes next to our kitchen tent), as well as packing 2 boxes of "resupply food" to be flown in 4-6 weeks later. Coffee has an entire box to it self. We also have a similar amount of frozen food, maybe slight less, but that was also boxed and sorted, I just never got a good photo of it as I was on non-frozen food duty. You can't see the contents label on this photo, but I labeled the coffee box with a red arrow. Rest assured though, we will not starve and more importantly, as Piper will agree, we will not run out of coffee.
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image55.jpg" alt="" /></span></div>
-  </div>
-</div>
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
+
+<span class="image right wide"><img src="assets/images/image12.jpg" alt="A shelf of stuffed penguins" /></span>
 
 Another fun event this week was the so called "America Night" when Scott base, the NZ base 3 miles away, opens up its bar and store to US personnel from McMurdo. We usually aren't allowed because Scott base is about 1/100 the size of McMurdo and we would overrun the base otherwise. This mainly is because of the vastly superior stuffed animal collect at Scott Base, pictured here:
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image12.jpg" alt="" /></span></div>
-  </div>
-</div>
-
 I now am a proud owner of a baby penguin, but I am still yearning to see one in real life soon! Its getting a little late here so I should probably get to bed and rest up for our science day tomorrow!
+
+<!-- this provides vertical page breaks so photos don't nest into each other -->
+<div class="box alt"><div class="row 50% uniform"></div></div>
 
 ## Nov 20 2021
 

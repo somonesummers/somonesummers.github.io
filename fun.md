@@ -28,3 +28,10 @@ I have a few indoor hobbies as well, and I use this time to express my more crea
 <ul class="actions">
 	<li><a href="{{ 'creative.html' | absolute_url }}" class="button">Creative Hobbies</a></li>
       </ul>
+
+### Trip Reports
+I've tried to start writing more trip reports, some for submission to the Stanford Alpine Club magazine and some just for me.
+
+<ul class="actions">
+	<li><a href="{{ 'tripReports.html' | absolute_url }}" class="button">Trip Reports</a></li>
+      </ul>
