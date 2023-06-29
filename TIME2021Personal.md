@@ -138,7 +138,7 @@ Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image7.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image7.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -146,7 +146,7 @@ Sorry these are out of order here, but this is the car that brought some of our 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image43.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image43.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -154,7 +154,7 @@ Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulati
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image46.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image46.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -162,7 +162,7 @@ Me all bundled up ready to sleep! I ended up taking lots of this off after I war
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image34.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image34.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -170,7 +170,7 @@ View of the room! A little tight b/c the sleeping bags are so big, and I think t
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image42.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image42.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ The crevasse simulator! A bulldozer made this big hole, its quite deep. We would
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image13.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image13.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -186,7 +186,7 @@ Mike, one of our mountaineers, explaining how to use a snowmobile as an anchor, 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image23.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image23.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -203,7 +203,7 @@ We drove out to this site, it was about a 1 hour drive on ski-doos, 1 person per
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image15.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image15.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -211,7 +211,7 @@ Inside the first step down
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image36.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image36.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -219,7 +219,7 @@ After one more step, we came to this steep ramp looking father down, probably ab
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image50.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image50.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -227,7 +227,7 @@ Closer to the bottom, we couldn't get all the way down due to a 10ft ice cliff a
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image38.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image38.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -235,7 +235,7 @@ Working on my selfies
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image33.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image33.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -243,7 +243,7 @@ Another view up to the ramp in a better view, this skylight is not how we came i
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image40.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image40.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -251,7 +251,7 @@ After a day like that we all came back pretty excited to say the least! Otherwis
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image66.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image66.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -259,7 +259,7 @@ It took all 6 of us about 6 hours to sort, itemize and pack this all into these 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image55.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image55.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -267,7 +267,7 @@ Another fun event this week was the so called "America Night" when Scott base, t
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image12.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image12.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -284,7 +284,7 @@ First some updates on the science experiment we are running. I'm helping with a 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image70.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image70.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -292,7 +292,7 @@ When we are collecting the radar data, we set the receiver(s) to record for a fe
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image19.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image19.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -300,7 +300,7 @@ Otherwise, back in town life has been good! C-17 flights wrapped up this week wh
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image30.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image30.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -308,7 +308,7 @@ Thursday was Polar Pride Day, which featured many events and fun deserts, I hear
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image16.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image16.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -316,7 +316,7 @@ Another fun activity this week was that we got a tour of the science aquarium. I
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image53.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image53.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -324,7 +324,7 @@ Here are a few of the larger sea spiders. They are related to the microscopic se
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image27.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image27.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -332,7 +332,7 @@ This little guy was a favorite of mine. I forget the scientific name, but Aaron 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image71.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image71.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -355,7 +355,7 @@ We've had a noticeably less productive week here, but we've been doing our best 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image24.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image24.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -363,7 +363,7 @@ Part of our weather delays included the first multiday "storm" that McMurdo has 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image18.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image18.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -372,7 +372,7 @@ The next morning, as expected, a warm storm came into town. There were "light" w
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image14.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image14.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -380,7 +380,7 @@ In preparation for the Thanksgiving meal, the galley was asking for volunteers t
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image60.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image60.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -388,7 +388,7 @@ We've also been exploring the selection of board games available on base. We fou
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image68.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image68.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -396,7 +396,7 @@ More updates on daily life here in response to Michelle's question, there is an 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image68.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image68.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -404,7 +404,7 @@ Friday night marked the beginning of the long weekend (2 days off in a row, what
  
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image73.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image73.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -412,7 +412,7 @@ Thanksgiving meal was served in 2 shifts, I went second shift from 530-730. The 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image45.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image45.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -436,7 +436,7 @@ This will also help you make sense of my GPS points as I send them.
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image21.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image21.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -467,7 +467,7 @@ In other news, December here means high summer! We had our first day of above fr
  
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image61.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image61.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -475,7 +475,7 @@ Yours truly enjoying the views of Mt Erebus in the distance.
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image1.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image1.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -483,7 +483,7 @@ Yesterday we also had the distinct pleasure of viewing a partial solar eclipse! 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image44.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image44.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -491,7 +491,7 @@ We brought eclipse viewing glasses from home and were sure to carefully use them
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image41.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image41.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -499,7 +499,7 @@ More advanced photography techniques here, but again I was pretty happy with it!
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image32.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image32.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -529,7 +529,7 @@ I was maybe a little too excited for this, but a trash can (a 55 gallon drum) de
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image56.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image56.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -540,7 +540,7 @@ Christmas decorations are starting to show up around town, which is very fun. Th
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image35.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image35.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -548,7 +548,7 @@ Even the gear supply department (the Byrd Field Center, BFC) has put a Scott Ten
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image65.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image65.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -556,7 +556,7 @@ One of the science cuts we had to make was to not bring a set of 24 small seismi
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image48.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image48.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -566,7 +566,7 @@ The point of these strikes is to make a loud, short, sharp sound that the seismo
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image67.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image67.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -574,7 +574,7 @@ As for our flight outlook, we still are hoping to get out to WAIS Divide and Thw
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image37.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image37.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -599,7 +599,7 @@ Yours truly with the Basler, the plane we flew to WAIS Divide on. It was a smoot
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image37.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image37.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -607,7 +607,7 @@ WAIS Divide! These are some of the semipermanent tents and structures they have 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image8.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image8.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -615,7 +615,7 @@ A twin otter landed at our T1 site! These are the smallest planes we flew on. It
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image3.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image3.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -623,7 +623,7 @@ Speaking of camp, here is our camp! These are our sleeping tent and toilet tent.
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image6.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image6.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -631,7 +631,7 @@ Our kitchen tent and some personal baggage, with our cargo lines of storage and 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image26.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image26.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -639,7 +639,7 @@ A look inside the kitchen tent! Outside temps averaged around -10C to -25C, but 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image54.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image54.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -647,7 +647,7 @@ Speaking of field work, I'd mentioned that we were concerned about our sites bei
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image11.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image11.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -655,7 +655,7 @@ The largest instruments were installed with 12 ft tall solar panels, which were 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image20.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image20.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -663,7 +663,7 @@ Our digging was sped along by the use of a chainsaw, operated by our 2 field gui
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image4.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image4.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -671,7 +671,7 @@ The final result of another dig, you can't see the bottom from this side! We dug
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image22.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image22.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -679,7 +679,7 @@ Once we were done at T1, we were picked up by 2 Twin Otters to be brought back t
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image51.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image51.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -696,7 +696,7 @@ Before we went back to McMurdo, the British had not been able to recover one of 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image64.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image64.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -704,7 +704,7 @@ This is the view from outside that hole, you can see some of the drifting snow, 
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image10.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image10.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -712,7 +712,7 @@ Once we finished our extraction of the T2 seismometer, we did some final packing
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image39.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image39.jpg" alt="" /></span></div>
   </div>
 </div>
 
@@ -720,7 +720,7 @@ And here we all are buckled up and ready to fly to McMurdo! The LC-130 is much f
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="12u"><span class="image fit"><img src="assets/images/image28.jpg" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="assets/images/image28.jpg" alt="" /></span></div>
   </div>
 </div>
 
