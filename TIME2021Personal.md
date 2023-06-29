@@ -134,21 +134,15 @@ Paul
 
 p.s. photos and descriptions below
 
+<span class="image right"><img src="assets/images/image7.jpg" alt="Yellow tents pitched on an ice shelf with a volcano in the background on a clear day" /></span>
+
 Our camp for shakedown! The big one is the "Arctic Oven" our main kitchen tent. We use all the guy lines, many tied to flags because we have lots of flags. We save the bamboo stakes (without flags) for sleep tents primarily as the flags are noisy in the wind. Down the line (away from the camera) is one Scott tent, a survival trench (for demo only, we all slept in tents) then 3 mountain tents. The prevailing wind is coming from the right side of this photo, though it was thankfully not very windy which is why the flags are calm. Mt Erebus, the 2nd most active volcano in the world, can be seen in the background!
 
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image7.jpg" alt="" /></span></div>
-  </div>
-</div>
+<div class="box alt"></div>
+
+<span class="image fit"><img src="assets/images/image43.jpg" alt="Bags piled next to a 2 cab Hagglung tracked vehicle on a dirt road in McMurdo" /></span>
 
 Sorry these are out of order here, but this is the car that brought some of our stuff our to the camp as well! It was very cute, but unfortunately we didn't ride in it. This was loading up at MCM before we went out. It's called a Hagglund, and they can even float at crawl through open water if the cabins are sealed well enough.
-
-<div class="box alt">
-  <div class="row 50% uniform">
-    <div class="6u"><span class="image fit"><img src="assets/images/image43.jpg" alt="" /></span></div>
-  </div>
-</div>
 
 Inside of our Arctic oven! It's 2 walled, with the inner lining being a insulating, soft hand feel synthetic fabric, not far off a mid layer, but thinner and more durable. The lining is white, the fly is yellow typical fly material. The chairs and tables are borrowed from a nearby hut. We will have some in the field, but probably a different style
 
