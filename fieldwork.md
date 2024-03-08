@@ -9,9 +9,9 @@ alt: Paul using a radar system on McMurdo Ice Shelf
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/time2024_01.jpg" alt="Bistatic aPRES Radar survey sled on an ice shelf" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/time2024_02.jpg" alt="Basler plane being loaded up with camp equipment" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/time2024_03.jpg" alt="Yellow pyramid Scott tents set up in a field camp" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/time2024_1.jpg" alt="Bistatic aPRES Radar survey sled on an ice shelf" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/time2024_2.jpg" alt="Basler plane being loaded up with camp equipment" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/time2024_3.jpg" alt="Yellow pyramid Scott tents set up in a field camp" /></span></div>
   </div>
 </div>
 
@@ -61,7 +61,7 @@ In the Spring of 2022 I was co-TA with Javier Peralta for Professor Rosemary Kni
 </div>
 
 ### Scientist on TIME Team Expedition
-Spent 2 weeks on Thwaites Glacier as a team of 6 recovering passive seismic and GPS equipment that had been deployed for 2 years. Additionally did 2 days of bistatic radar surveying. This season was severely impacted by logistical constraints that shortened the season significantly. 
+I spent 2 weeks on Thwaites Glacier as a team of 6 recovering passive seismic and GPS equipment that had been deployed for 2 years. Additionally we did 2 days of bistatic radar surveying. This season was impacted by logistical constraints that shortened the season significantly. 
 
 <ul class="actions">
 	<li><a href="{{ 'TIME2021.html' | absolute_url }}" class="button">TIME 2021</a></li>
