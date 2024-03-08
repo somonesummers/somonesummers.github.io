@@ -5,6 +5,23 @@ image: assets/images/paulMcmShelfCrop.jpg
 alt: Paul using a radar system on McMurdo Ice Shelf
 ---
 
+## Thwaites Glacier, Antarctica Nov 2023 - Feb 2024 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/time2024_01.jpg" alt="Bistatic aPRES Radar survey sled on an ice shelf" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/time2024_02.jpg" alt="Basler plane being loaded up with camp equipment" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/time2024_03.jpg" alt="Yellow pyramid Scott tents set up in a field camp" /></span></div>
+  </div>
+</div>
+
+### Scientist on TIME Team Expedition
+Worked as a part of a team of 15 on Thwaites Glacier for 30+ days to complete a seismic and radar survey of the Eastern Shear Margin. Additionally spent 7+ days at Eastwind Glacier near McMurdo Station doing additional radar surveys of both grounded and floating ice.
+
+<ul class="actions">
+  <li><a href="{{ 'TIME2023.html' | absolute_url }}" class="button">TIME 2023</a></li>
+      </ul>
+
 ## Joshua Tree National Park March 2023 
 
 <div class="box alt">
@@ -44,7 +61,7 @@ In the Spring of 2022 I was co-TA with Javier Peralta for Professor Rosemary Kni
 </div>
 
 ### Scientist on TIME Team Expedition
-Brief Blurb, more and photos here
+Spent 2 weeks on Thwaites Glacier as a team of 6 recovering passive seismic and GPS equipment that had been deployed for 2 years. Additionally did 2 days of bistatic radar surveying. This season was severely impacted by logistical constraints that shortened the season significantly. 
 
 <ul class="actions">
 	<li><a href="{{ 'TIME2021.html' | absolute_url }}" class="button">TIME 2021</a></li>
