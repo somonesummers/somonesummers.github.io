@@ -4,6 +4,9 @@ title: Publications
 ---
 ## Journal Publications
 
+**Summers, P. T.**; Schroeder, D. M.; May, D. F.; & Suckale, J. (2024). Evidence for and against temperate ice in Antarctic shear margins from radar-depth sounding data. _Geophysical Research Letters_,2024, [https://doi.org/10.1029/2023GL106893](https://doi.org/10.1029/2023GL106893)
+
+
 **Summers, P.T.**; Elseworth, C.W.; Dow, C.F.; Suckale, J. 
 "Migration of the Shear Margins at Thwaites Glacier: Dependence on Basal Conditions and Testability Against Field Data," _Journal of Geophysical Research: Earth Surface_, 2023, [doi.org/10.1029/2022JF006958](https://doi.org/10.1029/2022JF006958) 
 
@@ -13,7 +16,7 @@ Bienert, N.; Schroeder D. M.; **Summers, P.T.**
 "Bistatic Radar Tomography of Shear Margins: Simulated Temperature and Basal Material Inversions," _IEEE Transactions on Geoscience and Remote Sensing_, 2022, [doi.org/10.1109/TGRS.2022.3213047](https://doi.org/10.1109/TGRS.2022.3213047) 
 
 **Summers, P.T.**;  Dustin M. Schroeder, Matthew R. Siegfried. 
-"Constraining Ice Sheet Basal Sliding and Horizontal Velocity Profiles Using a Stationary Phase Sensitive Radar Sounder," _IEEE International Geoscience and Remote Sensing Symposium_, 2021, [doi.org/10.1109/IGARSS47720.2021.9554535](https://doi.org/10.1109/IGARSS47720.2021.9554535)\\
+"Constraining Ice Sheet Basal Sliding and Horizontal Velocity Profiles Using a Stationary Phase Sensitive Radar Sounder," _IEEE International Geoscience and Remote Sensing Symposium_, 2021, [doi.org/10.1109/IGARSS47720.2021.9554535](https://doi.org/10.1109/IGARSS47720.2021.9554535)
 
 ## Conference Abstracts
 
