@@ -8,10 +8,10 @@
 */
 
 /* 
-darker grey:  RGB:  230, 235, 237 
-light grey:  RGB: 210, 215, 217
-dark purple:  hex:  492365
-accent purple:  RGB: 127, 86, 197
+GRAY MATTER:  RGB: 84, 88, 90 
+Light warm gray:  RGB: 214, 219, 212
+navy blue:  hex:  003057
+bold blue:  RGB:  58, 93, 174
 */
 
 /* Reset */
@@ -2114,13 +2114,13 @@ accent purple:  RGB: 127, 86, 197
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #492365;
+		color: #003057;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #492365;
-			color: #492365 !important;
+			border-bottom-color: #003057;
+			color: #003057 !important;
 		}
 
 			a:hover strong {
@@ -2221,16 +2221,16 @@ accent purple:  RGB: 127, 86, 197
 	}
 
 	blockquote {
-		border-left: solid 3px rgba(210, 215, 217, 0.75);
+		border-left: solid 3px rgba(214, 219, 212, 0.75);
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
 
 	code {
-		background: rgba(230, 235, 237, 0.25);
+		background: rgba(84, 88, 90, 0.25);
 		border-radius: 0.375em;
-		border: solid 1px rgba(210, 215, 217, 0.75);
+		border: solid 1px rgba(214, 219, 212, 0.75);
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -2253,7 +2253,7 @@ accent purple:  RGB: 127, 86, 197
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px rgba(210, 215, 217, 0.75);
+		border-bottom: solid 1px rgba(214, 219, 212, 0.75);
 		margin: 2em 0;
 	}
 
@@ -2289,7 +2289,7 @@ accent purple:  RGB: 127, 86, 197
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #492365;
+		border-bottom: solid 3px #003057;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2328,7 +2328,7 @@ accent purple:  RGB: 127, 86, 197
 		background: #ffffff;
 		border-radius: 0.375em;
 		border: none;
-		border: solid 1px rgba(210, 215, 217, 0.75);
+		border: solid 1px rgba(214, 219, 212, 0.75);
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -2356,8 +2356,8 @@ accent purple:  RGB: 127, 86, 197
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #492365;
-			box-shadow: 0 0 0 1px #492365;
+			border-color: #003057;
+			box-shadow: 0 0 0 1px #003057;
 		}
 
 	.select-wrapper {
@@ -2376,7 +2376,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 		.select-wrapper:before {
-			color: rgba(210, 215, 217, 0.75);
+			color: rgba(214, 219, 212, 0.75);
 			content: '\f078';
 			display: block;
 			height: 2.75em;
@@ -2448,7 +2448,7 @@ accent purple:  RGB: 127, 86, 197
 			input[type="radio"] + label:before {
 				background: #ffffff;
 				border-radius: 0.375em;
-				border: solid 1px rgba(210, 215, 217, 0.75);
+				border: solid 1px rgba(214, 219, 212, 0.75);
 				content: '';
 				display: inline-block;
 				height: 1.65em;
@@ -2470,8 +2470,8 @@ accent purple:  RGB: 127, 86, 197
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #492365;
-			box-shadow: 0 0 0 1px #492365;
+			border-color: #003057;
+			box-shadow: 0 0 0 1px #003057;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2511,7 +2511,7 @@ accent purple:  RGB: 127, 86, 197
 
 	.box {
 		border-radius: 0.375em;
-		border: solid 1px rgba(210, 215, 217, 0.75);
+		border: solid 1px rgba(214, 219, 212, 0.75);
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
@@ -2653,7 +2653,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 			ul.alt li {
-				border-top: solid 1px rgba(210, 215, 217, 0.75);
+				border-top: solid 1px rgba(214, 219, 212, 0.75);
 				padding: 0.5em 0;
 			}
 
@@ -2692,7 +2692,7 @@ accent purple:  RGB: 127, 86, 197
 
 			ul.contact li {
 				text-decoration: none;
-				border-top: solid 1px rgba(210, 215, 217, 0.75);
+				border-top: solid 1px rgba(214, 219, 212, 0.75);
 				margin: 1.5em 0 0 0;
 				padding: 1.5em 0 0 3em;
 				position: relative;
@@ -2708,7 +2708,7 @@ accent purple:  RGB: 127, 86, 197
 				}
 
 				ul.contact li:before {
-					color: #492365;
+					color: #003057;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2832,7 +2832,7 @@ accent purple:  RGB: 127, 86, 197
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #492365;
+						background-color: #003057;
 						color: #ffffff !important;
 					}
 
@@ -2891,13 +2891,13 @@ accent purple:  RGB: 127, 86, 197
 	}
 
 		table tbody tr {
-			border: solid 1px rgba(210, 215, 217, 0.75);
+			border: solid 1px rgba(214, 219, 212, 0.75);
 			border-left: 0;
 			border-right: 0;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(230, 235, 237, 0.25);
+				background-color: rgba(84, 88, 90, 0.25);
 			}
 
 		table td {
@@ -2913,11 +2913,11 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 		table thead {
-			border-bottom: solid 2px rgba(210, 215, 217, 0.75);
+			border-bottom: solid 2px rgba(214, 219, 212, 0.75);
 		}
 
 		table tfoot {
-			border-top: solid 2px rgba(210, 215, 217, 0.75);
+			border-top: solid 2px rgba(214, 219, 212, 0.75);
 		}
 
 		table.alt {
@@ -2925,7 +2925,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 			table.alt tbody tr td {
-				border: solid 1px rgba(210, 215, 217, 0.75);
+				border: solid 1px rgba(214, 219, 212, 0.75);
 				border-left-width: 0;
 				border-top-width: 0;
 			}
@@ -2964,8 +2964,8 @@ accent purple:  RGB: 127, 86, 197
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #492365;
-		color: #492365 !important;
+		box-shadow: inset 0 0 0 2px #003057;
+		color: #003057 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -2986,7 +2986,7 @@ accent purple:  RGB: 127, 86, 197
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(127, 86, 197, 0.05);
+			background-color: rgba(58, 93, 174, 0.05);
 		}
 
 		input[type="submit"]:active,
@@ -2994,7 +2994,7 @@ accent purple:  RGB: 127, 86, 197
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(127, 86, 197, 0.15);
+			background-color: rgba(58, 93, 174, 0.15);
 		}
 
 		input[type="submit"].icon:before,
@@ -3038,7 +3038,7 @@ accent purple:  RGB: 127, 86, 197
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #492365;
+			background-color: #003057;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3078,7 +3078,7 @@ accent purple:  RGB: 127, 86, 197
 /* Mini Posts */
 
 	.mini-posts article {
-		border-top: solid 1px rgba(210, 215, 217, 0.75);
+		border-top: solid 1px rgba(214, 219, 212, 0.75);
 		margin-top: 2em;
 		padding-top: 2em;
 	}
@@ -3158,7 +3158,7 @@ accent purple:  RGB: 127, 86, 197
 			}
 
 				.features article .icon:before {
-					color: #492365;
+					color: #003057;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3170,7 +3170,7 @@ accent purple:  RGB: 127, 86, 197
 					-ms-transform: rotate(45deg);
 					transform: rotate(45deg);
 					border-radius: 0.25rem;
-					border: solid 2px rgba(210, 215, 217, 0.75);
+					border: solid 2px rgba(214, 219, 212, 0.75);
 					content: '';
 					display: block;
 					height: 7em;
@@ -3313,7 +3313,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 			.posts article:before {
-				background: rgba(210, 215, 217, 0.75);
+				background: rgba(214, 219, 212, 0.75);
 				content: '';
 				display: block;
 				height: calc(100% + 6em);
@@ -3324,7 +3324,7 @@ accent purple:  RGB: 127, 86, 197
 			}
 
 			.posts article:after {
-				background: rgba(210, 215, 217, 0.75);
+				background: rgba(214, 219, 212, 0.75);
 				bottom: -3em;
 				content: '';
 				display: block;
@@ -3502,7 +3502,7 @@ accent purple:  RGB: 127, 86, 197
 
 			#main > .inner > section {
 				padding: 6em 0 4em 0 ;
-				border-top: solid 2px rgba(210, 215, 217, 0.75);
+				border-top: solid 2px rgba(214, 219, 212, 0.75);
 			}
 
 				#main > .inner > section:first-of-type {
@@ -3615,7 +3615,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 			#sidebar > .inner > * {
-				border-bottom: solid 2px rgba(210, 215, 217, 0.75);
+				border-bottom: solid 2px rgba(214, 219, 212, 0.75);
 				margin: 0 0 3.5em 0;
 				padding: 0 0 3.5em 0;
 			}
@@ -3803,7 +3803,7 @@ accent purple:  RGB: 127, 86, 197
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #492365;
+		border-bottom: solid 5px #003057;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3997,7 +3997,7 @@ accent purple:  RGB: 127, 86, 197
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #492365;
+				color: #003057;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4031,7 +4031,7 @@ accent purple:  RGB: 127, 86, 197
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #492365;
+					color: #003057;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
@@ -4046,7 +4046,7 @@ accent purple:  RGB: 127, 86, 197
 				}
 
 	#menu > ul > li {
-		border-top: solid 1px rgba(210, 215, 217, 0.75);
+		border-top: solid 1px rgba(214, 219, 212, 0.75);
 		margin: 0.5em 0 0 0;
 		padding: 0.5em 0 0 0;
 	}
