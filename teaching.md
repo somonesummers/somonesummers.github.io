@@ -5,13 +5,19 @@ image: assets/images/jtree1Crop.jpg
 alt: Paul demonstrating how to use a repell extension for a class
 ---
 
+## Juneau Ice Field Research Program (JIRP)
+### Block 2 Teaching Faculty 2024
+Instructed a group of 34 mostly undergraduate students on glacial deformation and ice flow as a part of a multi-week expedition focused on earth science, mountaineering and wilderness skills on an expedition across the Juneau Ice Field. I lead multiple formal lectures, small group workshops, and field based research experiences. 
 
-## Stanford University Geophysics PhD 2018-Current
+## Stanford University Geophysics PhD 2018-2024
+
+### Instructor Apprentice for OUTDOOR 15 Spring 2024
+Apprentice for a 7 day field based trad anchors rock climbing course. Assisted in site and student management as well as skills instruction throughout the course. I was lead instructor for the multiple skills lecture and practice session. 
 
 ### Instructor Apprentice for Rock Rescue Clinics Spring 2023
 Apprentice for a 3 part rock rescue clinic series. Instructed skills for hauling from above, getting to baseline, ascending rope, and counter-weight and tandem rappelling. 
 
-### Instructor Apprentice for OUTDOOR 115 Spring 2023
+### Instructor Apprentice for OUTDOOR 15 Spring 2023
 Apprentice for a 7 day field based trad anchors rock climbing course. Assisted in site and student management as well as skills instruction throughout the course. I was lead instructor for the repelling skills lecture and practice session. 
 
 ### Preparing Future Professors Mentee Winter 2023

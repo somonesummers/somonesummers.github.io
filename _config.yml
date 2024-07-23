@@ -1,15 +1,15 @@
 # Site settings
 title: Paul Summers
-subtitle: Geophysics PhD Candidate
+subtitle: Postdoctoral Researcher
 email: psummers (at) stanford (dot) edu
 description: MY PERSONAL PAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Paul Summers
-street_address: 224 Oak Ct
-city: Menlo Park
+street_address: 3321 St Michael Drive
+city: Palo Alto 
 state: CA
-zip_code: 94025
+zip_code: 94306
 country: United States of America
 phone:
 

@@ -5,6 +5,33 @@ image: assets/images/paulMcmShelfCrop.jpg
 alt: Paul using a radar system on McMurdo Ice Shelf
 ---
 
+## Juneau Ice Field Research Program (JIRP) July 2024
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp1.jpg" alt="Class photo by a crag" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp2.jpg" alt="Class discussion around the makeshift campfire" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/jirp3.jpg" alt="Class photo with a desert sunset" /></span></div>
+  </div>
+</div>
+
+### JIRP Block 2 Academic Faculty 
+During July 2024, I was academic faculty for JIRP Block 2 where I worked with a team of  team of 8 other faculty to instruct 34 mostly undergraduate students. The curriculum focused on geosciences, mountaineering, and wilderness skills, and I focused on glacial deformation and ice flow. Instruction was in formal lectures, small workshops, and field based research experiences. 
+
+## Joshua Tree National Park March 2024 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree4.jpg" alt="Class photo by a crag" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/joshuaTree5.jpg" alt="Class discussion around the makeshift campfire" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/joshuaTree6.jpg" alt="Class photo with a desert sunset" /></span></div>
+  </div>
+</div>
+
+### Outdoor Educator Apprentice for Rock Climbing: Intermediate Anchors 
+During Spring Break 2024, I was an Outdoor Educator Apprentice for a 7 day climbing class in Joshua Tree National Park. We taught a class a 8 students the basics of trad gear placement and anchor construction, as well as proper belaying and repelling for a variety of single pitch scenarios. This was a continuation of the work last year, and I took on a more advanced roll leading multiple sessions.
+
+
 ## Thwaites Glacier, Antarctica Nov 2023 - Feb 2024 
 
 <div class="box alt">
