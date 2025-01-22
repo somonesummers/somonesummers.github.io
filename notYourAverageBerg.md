@@ -1,4 +1,7 @@
-# Making Icebergs for ICEBERG Package in MITgcm
+---
+layout: page
+title: Making Icebergs for ICEBERG Package in MITgcm
+---
 This script generates random icebergs accoring to a power distribution, following (Davison et al. 2020) (10.5194/tc-16-1181-2022) and creates all accessory files needed to run MITgcm with this distribution of icebergs and desired custom masks.  
 
 ### Loading libraries and establishing some helper functions
