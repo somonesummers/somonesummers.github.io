@@ -9,6 +9,10 @@ alt: Paul digs a small hole on McMurdo Ice Shelf
 ### The Glacier-Ocean-Melange model (GLACIOME)
 Dense packs of icebergs and sea ice, known as ice mélange, persist in many fjords in Greenland, and potentially at many glaciers in Antarctica in the future. Observations suggest that ice mélange may directly affect iceberg calving by pressing against glacier termini and indirectly affect submarine melting by controlling where and when icebergs release their meltwater, which influences ocean heat transport towards glaciers. However, the interactions between ice mélange, ocean circulation, and iceberg calving have not systematically been investigated due to the difficult field environment. The GLACIOME project is investigating the complex interactions between glaciers, mélange and the ocean and provide the first comprehensive model of the co-evolution of these systems. I am working on coupling Mélange/Glacier model with the MITgcm model to capture feedbacks between the ocean and ice mélange.   
 
+<ul class="actions">
+	<li><a href="{{ 'notYourAverageBerg.html' | absolute_url }}" class="button">jupyter notebook generating icebergs in MITgcm</a></li>
+      </ul>
+
 ## Stanford University Geophysics PhD 2018-2024
 
 ### Englacial Temperature and Rheological Feedbacks
