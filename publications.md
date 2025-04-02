@@ -4,7 +4,14 @@ title: Publications
 ---
 ## Journal Publications
 
-**Summers, P. T.**; Schroeder, D. M.; May, D. F.; & Suckale, J. (2024). Evidence for and against temperate ice in Antarctic shear margins from radar-depth sounding data. _Geophysical Research Letters_,2024, [https://doi.org/10.1029/2023GL106893](https://doi.org/10.1029/2023GL106893)
+**Summers, P.T.**; Jackson, R. H.; Robel, A. A. 
+"Sub-grid Parameterization of Iceberg Drag in a Coupled Iceberg-Ocean Model", _The Cryoshpere_, (_In Review_), Preprint pending
+
+Hoffman, Andrew O.; **Summers, P.T.**; Suckale, J; Christianson, K.; Catania, G.; Conway, H. "Late Holocene Stabilization of Conway Ice Ridge," _The Cryoshpere_, (_In Review_), Preprint: [https://doi.org/10.5194/egusphere-2025-1239](https://doi.org/10.5194/egusphere-2025-1239)
+
+Teisberg, T. O.; Schroeder, D. M.; **Summers, P.T.**; Morlighem, M. "Measurement of englacial velocity fields with interferometric ice-penetrating radar," _Journal of Geophysical Research: Earth Surface_, (_In Review_)
+
+**Summers, P. T.**; Schroeder, D. M.; May, D. F.; & Suckale, J. (2024). "Evidence for and against temperate ice in Antarctic shear margins from radar-depth sounding data," _Geophysical Research Letters_,2024, [https://doi.org/10.1029/2023GL106893](https://doi.org/10.1029/2023GL106893)
 
 
 **Summers, P.T.**; Elseworth, C.W.; Dow, C.F.; Suckale, J. 
