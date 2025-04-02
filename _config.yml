@@ -6,7 +6,7 @@ description: MY PERSONAL PAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Paul Summers
-street_address: 1186 Holly St NW APT 3
+street_address: ""
 city: Atlanta 
 state: GA
 zip_code: 30318
