@@ -9,9 +9,9 @@ alt: Paul using a radar system on McMurdo Ice Shelf
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="5u"><span class="image fit"><img src="assets/images/jirp4.jpg" alt="Deploying sensors" /></span></div>
-    <div class="2u"><span class="image fit"><img src="assets/images/jirp6.jpg" alt="Pink Pants go for a ski" /></span></div>
-    <div class="5u$"><span class="image fit"><img src="assets/images/jirp5.jpg" alt="Class photo" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp4.jpg" alt="Deploying sensors" /></span></div>
+    <div class="3u"><span class="image fit"><img src="assets/images/jirp6.jpg" alt="Pink Pants go for a ski" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/jirp5.jpg" alt="Class photo" /></span></div>
   </div>
 </div>
 
