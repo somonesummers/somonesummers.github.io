@@ -16,7 +16,7 @@ alt: Paul using a radar system on McMurdo Ice Shelf
 </div>
 
 ### 2025 JIRP Block 3 Academic Faculty 
-I worked with 6 other faculty to instuct a group of 32 mostly undergraduate students on glacier dynamics and ice ocean interactions as a part of the Juneau Icefield Research Program (JIRP). I worked with a team of 7 students on a project monitoring the upper Vaughn Lewis glacier using tiltmeters, GPS, and seismometers to investigate daily fluctuations in ice flow. I additionally led multiple formal lectures and workshops on glaciology and sewing. 
+I worked with 6 other faculty to instuct a group of 32 mostly undergraduate students on glacier dynamics and ice ocean interactions as a part of the Juneau Icefield Research Program (JIRP). I worked with a team of 7 students on a project monitoring the upper Vaughan Lewis glacier using tiltmeters, GPS, and seismometers to investigate daily fluctuations in ice flow. I additionally led multiple formal lectures and workshops on glaciology and sewing. 
 
 <div class="box alt">
   <div class="row 50% uniform">
