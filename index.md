@@ -61,7 +61,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/JGR1.jpg" alt="An annotated map of Thwaites Glacier basal topography" /></a>
+      <a href="{{ 'research.html' | absolute_url}}" class="image"><img src="assets/images/CouplingOverview.png" alt="An annotated map of Thwaites Glacier basal topography" /></a>
       <h3>Research</h3>
       <p>Research projects I'm currently working on, as well as some past projects</p>
       <ul class="actions">
