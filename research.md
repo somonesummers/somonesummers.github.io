@@ -4,8 +4,16 @@ title: Research
 image: assets/images/filmDigCrop.jpg
 alt: Paul digs a small hole on McMurdo Ice Shelf
 ---
+## Tufts University Postdoctoral Researcher 2024-Present
 
-## Stanford University Geophysics PhD 2018-Current
+### The Glacier-Ocean-Melange model (GLACIOME)
+Dense packs of icebergs and sea ice, known as ice mélange, persist in many fjords in Greenland, and potentially at many glaciers in Antarctica in the future. Observations suggest that ice mélange may directly affect iceberg calving by pressing against glacier termini and indirectly affect submarine melting by controlling where and when icebergs release their meltwater, which influences ocean heat transport towards glaciers. However, the interactions between ice mélange, ocean circulation, and iceberg calving have not systematically been investigated due to the difficult field environment. The GLACIOME project is investigating the complex interactions between glaciers, mélange and the ocean and provide the first comprehensive model of the co-evolution of these systems. I am working on coupling Mélange/Glacier model with the MITgcm model to capture feedbacks between the ocean and ice mélange. A part of this work is in press at[The Cryosphere](https://doi.org/10.5194/egusphere-2025-1555). I have also made a demo of this work you can try for yourself [here](https://github.com/somonesummers/demoMITgcm). This demo should run on a typical Mac laptop in 5-10 minutes. 
+
+<ul class="actions">
+	<li><a href="{{ 'notYourAverageBerg.html' | absolute_url }}" class="button">jupyter notebook generating icebergs in MITgcm</a></li>
+      </ul>
+
+## Stanford University Geophysics PhD 2018-2024
 
 ### Englacial Temperature and Rheological Feedbacks
 Effective ice viscosity has a strong dependence on temperature, and conversely ice temperature is strongly impacted by local strain. With recent attention being directed at the rheology of ice and its power law form (n = 3, n = 4 rheology) an ambiguity arises as to whether enhanced shear is coming from englacial heating and n = 3 rheology, or can be explained with simply an n = 4 rheology and significantly less shear heating. Through 2-D thermomechanical modeling, I hope to explore this ambiguity, and see what resolution of englacial temperature measurement would be needed to distinguish these scenarios. This work is in early stages, please reach out if you'd like to chat more! 

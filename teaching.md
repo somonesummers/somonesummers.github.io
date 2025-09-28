@@ -6,6 +6,9 @@ alt: Paul demonstrating how to use a repell extension for a class
 ---
 
 ## Juneau Ice Field Research Program (JIRP)
+### Block 3 Teaching Faculty 2025
+Instructed a group of 34 mostly undergraduate students on glacier dynamics and ice ocean interactions as a part of a multi-week expedition focused on earth science, mountaineering and wilderness skills on an expedition across the Juneau Ice Field. I worked with a team of 7 students on a project monitoring the upper Vaughan Lewis glacier using tiltmeters, GPS, and seismometers to investigate daily fluctuations in ice flow. I additionally led multiple formal lectures and workshops on glaciology and sewing. 
+
 ### Block 2 Teaching Faculty 2024
 Instructed a group of 34 mostly undergraduate students on glacial deformation and ice flow as a part of a multi-week expedition focused on earth science, mountaineering and wilderness skills on an expedition across the Juneau Ice Field. I lead multiple formal lectures, small group workshops, and field based research experiences. 
 

@@ -5,18 +5,29 @@ image: assets/images/paulMcmShelfCrop.jpg
 alt: Paul using a radar system on McMurdo Ice Shelf
 ---
 
-## Juneau Ice Field Research Program (JIRP) July 2024
+## Juneau Icefield Research Program (JIRP)
 
 <div class="box alt">
   <div class="row 50% uniform">
-    <div class="4u"><span class="image fit"><img src="assets/images/jirp1.jpg" alt="Class photo by a crag" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/jirp2.jpg" alt="Class discussion around the makeshift campfire" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/jirp3.jpg" alt="Class photo with a desert sunset" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp4.jpg" alt="Deploying sensors" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp6.jpg" alt="Going to Heather Camp" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/jirp5.jpg" alt="Class photo" /></span></div>
   </div>
 </div>
 
-### JIRP Block 2 Academic Faculty 
-During July 2024, I was academic faculty for JIRP Block 2 where I worked with a team of  team of 8 other faculty to instruct 34 mostly undergraduate students. The curriculum focused on geosciences, mountaineering, and wilderness skills, and I focused on glacial deformation and ice flow. Instruction was in formal lectures, small workshops, and field based research experiences. 
+### 2025 JIRP Block 3 Academic Faculty 
+I worked with 6 other faculty to instuct a group of 32 mostly undergraduate students on glacier dynamics and ice ocean interactions as a part of the Juneau Icefield Research Program (JIRP). I worked with a team of 7 students on a project monitoring the upper Vaughan Lewis glacier using tiltmeters, GPS, and seismometers to investigate daily fluctuations in ice flow. I additionally led multiple formal lectures and workshops on glaciology and sewing. 
+
+<div class="box alt">
+  <div class="row 50% uniform">
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp1.jpg" alt="Faculty for this block" /></span></div>
+    <div class="4u"><span class="image fit"><img src="assets/images/jirp2.jpg" alt="Facilitating a paper discussion" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/jirp3.jpg" alt="Daily announcements over the Taku" /></span></div>
+  </div>
+</div>
+
+### 2024 JIRP Block 2 Academic Faculty 
+During July 2024, I was academic faculty for JIRP Block 2 where I worked with a team of team of 8 other faculty to instruct 34 mostly undergraduate students. The curriculum focused on geosciences, mountaineering, and wilderness skills, and I focused on glacial deformation and ice flow. Instruction was in formal lectures, small workshops, and field based research experiences. 
 
 ## Joshua Tree National Park March 2024 
 
