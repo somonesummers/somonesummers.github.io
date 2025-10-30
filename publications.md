@@ -6,7 +6,7 @@ title: Publications
 
 Hoffman, Andrew O.; **Summers, P.T.**; Suckale, J; Christianson, K.; Catania, G.; Conway, H. "Late Holocene Stabilization of Conway Ice Ridge," _The Cryoshpere_, (_In Review_), Preprint: [https://doi.org/10.5194/egusphere-2025-1239](https://doi.org/10.5194/egusphere-2025-1239)
 
-**Summers, P.T.**; Jackson, R. H.; Robel, A. A. "Sub-grid Parameterization of Iceberg Drag in a Coupled Iceberg-Ocean Model", _The Cryoshpere_, (2025), Preprint: [https://doi.org/10.5194/tc-19-5135-2025](https://doi.org/10.5194/tc-19-5135-2025)
+**Summers, P.T.**; Jackson, R. H.; Robel, A. A. "Sub-grid Parameterization of Iceberg Drag in a Coupled Iceberg-Ocean Model", _The Cryoshpere_, (2025), [https://doi.org/10.5194/tc-19-5135-2025](https://doi.org/10.5194/tc-19-5135-2025)
 
 Teisberg, T. O.; Schroeder, D. M.; **Summers, P.T.**; Morlighem, M. "Measurement of Englacial Velocity Fields With Interferometric Radio Echo Sounders," _Journal of Geophysical Research: Earth Surface_, 2025, [https://doi.org/10.1029/2025JF008286](https://doi.org/10.1029/2025JF008286)
 
