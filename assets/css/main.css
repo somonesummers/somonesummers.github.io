@@ -2153,7 +2153,6 @@ Light warm gray:  RGB: 214, 219, 212
 		}
 
 	h1 {
-		color: #005376;
 		font-size: 3em;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
@@ -2164,6 +2163,7 @@ Light warm gray:  RGB: 214, 219, 212
 	}
 
 	h3 {
+		color: #005376;
 		font-size: 1.25em;
 	}
 
@@ -3977,7 +3977,7 @@ Light warm gray:  RGB: 214, 219, 212
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		color: #005376;
+		color: #5E666C;
 		font-family: "Roboto Slab", serif;
 		font-family: 400;
 		letter-spacing: 0.075em;
