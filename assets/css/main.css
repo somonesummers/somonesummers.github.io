@@ -10,8 +10,7 @@
 /* 
 GRAY MATTER:  RGB: 84, 88, 90 
 Light warm gray:  RGB: 214, 219, 212
-navy blue:  hex:  005376
-bold blue:  RGB:  58, 93, 174
+
 */
 
 /* Reset */
@@ -2986,7 +2985,7 @@ bold blue:  RGB:  58, 93, 174
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(58, 93, 174, 0.05);
+			background-color: rgba(0, 83, 118, 0.05);
 		}
 
 		input[type="submit"]:active,
@@ -2994,7 +2993,7 @@ bold blue:  RGB:  58, 93, 174
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(58, 93, 174, 0.15);
+			background-color: rgba(0, 83, 118, 0.15);
 		}
 
 		input[type="submit"].icon:before,
