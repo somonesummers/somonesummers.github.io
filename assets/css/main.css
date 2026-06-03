@@ -10,7 +10,7 @@
 /* 
 GRAY MATTER:  RGB: 84, 88, 90 
 Light warm gray:  RGB: 214, 219, 212
-navy blue:  hex:  003057
+navy blue:  hex:  005376
 bold blue:  RGB:  58, 93, 174
 */
 
@@ -2114,13 +2114,13 @@ bold blue:  RGB:  58, 93, 174
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #003057;
+		color: #005376;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #003057;
-			color: #003057 !important;
+			border-bottom-color: #005376;
+			color: #005376 !important;
 		}
 
 			a:hover strong {
@@ -2289,7 +2289,7 @@ bold blue:  RGB:  58, 93, 174
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #003057;
+		border-bottom: solid 3px #005376;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2356,8 +2356,8 @@ bold blue:  RGB:  58, 93, 174
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #003057;
-			box-shadow: 0 0 0 1px #003057;
+			border-color: #005376;
+			box-shadow: 0 0 0 1px #005376;
 		}
 
 	.select-wrapper {
@@ -2470,8 +2470,8 @@ bold blue:  RGB:  58, 93, 174
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #003057;
-			box-shadow: 0 0 0 1px #003057;
+			border-color: #005376;
+			box-shadow: 0 0 0 1px #005376;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2708,7 +2708,7 @@ bold blue:  RGB:  58, 93, 174
 				}
 
 				ul.contact li:before {
-					color: #003057;
+					color: #005376;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2832,7 +2832,7 @@ bold blue:  RGB:  58, 93, 174
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #003057;
+						background-color: #005376;
 						color: #ffffff !important;
 					}
 
@@ -2964,8 +2964,8 @@ bold blue:  RGB:  58, 93, 174
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #003057;
-		color: #003057 !important;
+		box-shadow: inset 0 0 0 2px #005376;
+		color: #005376 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
@@ -3038,7 +3038,7 @@ bold blue:  RGB:  58, 93, 174
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #003057;
+			background-color: #005376;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -3158,7 +3158,7 @@ bold blue:  RGB:  58, 93, 174
 			}
 
 				.features article .icon:before {
-					color: #003057;
+					color: #005376;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3803,7 +3803,7 @@ bold blue:  RGB:  58, 93, 174
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #003057;
+		border-bottom: solid 5px #005376;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3997,7 +3997,7 @@ bold blue:  RGB:  58, 93, 174
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #003057;
+				color: #005376;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4031,7 +4031,7 @@ bold blue:  RGB:  58, 93, 174
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #003057;
+					color: #005376;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
