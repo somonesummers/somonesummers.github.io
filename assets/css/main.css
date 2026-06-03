@@ -2113,7 +2113,7 @@ Light warm gray:  RGB: 214, 219, 212
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #005376;
+		color: #5E666C;
 		text-decoration: none;
 	}
 
@@ -2127,7 +2127,7 @@ Light warm gray:  RGB: 214, 219, 212
 			}
 
 	strong, b {
-		color: #005376; 
+		color: #5E666C; 
 		font-weight: 600;
 	}
 
@@ -2140,7 +2140,7 @@ Light warm gray:  RGB: 214, 219, 212
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #005376;
+		color: #5E666C;
 		font-family: "Roboto Slab", serif;
 		font-weight: 700;
 		line-height: 1.5;
@@ -2153,6 +2153,7 @@ Light warm gray:  RGB: 214, 219, 212
 		}
 
 	h1 {
+		color: #005376;
 		font-size: 3em;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
