@@ -4,7 +4,7 @@ title: Publications
 ---
 ## Journal Publications
 
-Hoffman, Andrew O.; **Summers, P.T.**; Suckale, J; Christianson, K.; Catania, G.; Conway, H. "Late Holocene Stabilization of Conway Ice Ridge," _The Cryoshpere_, (_In Review_), _accepted_: [https://doi.org/10.5194/egusphere-2025-1239](https://doi.org/10.5194/egusphere-2025-1239)
+Hoffman, Andrew O.<sup>★</sup>; **Summers, P.T.<sup>★</sup>**; Suckale, J; Christianson, K.; Catania, G.; Conway, H. "Late Holocene Stabilization of Conway Ice Ridge," _The Cryoshpere_, (2026): [https://doi.org/10.5194/tc-20-3977-2026](https://doi.org/10.5194/tc-20-3977-2026)
 
 **Summers, P.T.**; Jackson, R. H.; Robel, A. A. "Sub-grid Parameterization of Iceberg Drag in a Coupled Iceberg-Ocean Model", _The Cryoshpere_, (2025), [https://doi.org/10.5194/tc-19-5135-2025](https://doi.org/10.5194/tc-19-5135-2025)
 
@@ -38,7 +38,7 @@ Glacier/Ocean/Mélange Model (GLACIOME)
 
 WAIS Conference 2025 <br>
 Sep 2025<br>
-**Summers, P. T.**; Robel, A. A.; Jackson, R. H. (2025, Dec). Glacier-Mélange Feedbacks as a Stabilization Mechanism for Classical
+**Summers, P. T.**; Robel, A. A.; Jackson, R. H. (2025, Sep). Glacier-Mélange Feedbacks as a Stabilization Mechanism for Classical
 Marine Ice Sheet Stability.
 
 AGU 2024 Meeting<br>
