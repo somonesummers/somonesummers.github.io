@@ -4,6 +4,9 @@ title: Publications
 ---
 ## Journal Publications
 
+**Summers, P.T.**; Robel, A.A.; Jackson, R.H.,; King, M.D.; Amundson, J.M.; Burton, J.C. “Sudden Collapse of Ice M´elange Under
+Increasing Submarine Melt at Tidewater Glaciers”, _Nature Communications_, (In Press), Preprint: [https://doi.org/10.21203/rs.3.rs-9859110/v1](https://doi.org/10.21203/rs.3.rs-9859110/v1)
+
 Hoffman, Andrew O.<sup>★</sup>; **Summers, P.T.<sup>★</sup>**; Suckale, J; Christianson, K.; Catania, G.; Conway, H. "Late Holocene Stabilization of Conway Ice Ridge," _The Cryoshpere_, (2026): [https://doi.org/10.5194/tc-20-3977-2026](https://doi.org/10.5194/tc-20-3977-2026)
 
 **Summers, P.T.**; Jackson, R. H.; Robel, A. A. "Sub-grid Parameterization of Iceberg Drag in a Coupled Iceberg-Ocean Model", _The Cryoshpere_, (2025), [https://doi.org/10.5194/tc-19-5135-2025](https://doi.org/10.5194/tc-19-5135-2025)

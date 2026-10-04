@@ -7,9 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Paul Summers
 street_address: ""
-city: Atlanta 
-state: GA
-zip_code: 30318
+city: Albuquerque 
+state: NM
+zip_code: 87112
 country: United States of America
 phone:
 
